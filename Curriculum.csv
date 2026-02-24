@@ -1,0 +1,1344 @@
+STT;Course_ID;Course_Name;Credit;Type;Kind;Spec_Name;Major_Name;Major_Code;Spec_Code
+1;SMT1005;Marxist Leninist Philosophy;3;General;Compulsory;;Management Information System;7340405;
+2;SMT1006;Political Economics of Marxism – Leninism;2;General;Compulsory;;Management Information System;7340405;
+3;SMT1007;Scientific Socialism;2;General;Compulsory;;Management Information System;7340405;
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;;Management Information System;7340405;
+5;SMT1004;Ho Chi Minh’s Ideology;2;General;Compulsory;;Management Information System;7340405;
+6;LAW1001;General Law;2;General;Compulsory;;Management Information System;7340405;
+7;TOU1001;Business Communication;3;General;Compulsory;;Management Information System;7340405;
+8;MIS1003;Digital Technology and Artificial Intelligence;3;General;Compulsory;;Management Information System;7340405;
+9;MGT1001;Microeconomics;3;General;Compulsory;;Management Information System;7340405;
+10;ECO1001;Macroeconomics;3;General;Compulsory;;Management Information System;7340405;
+11;MGT1002;Management;3;General;Compulsory;;Management Information System;7340405;
+12;ENGELE1;English Elementary 1;3;General;Compulsory;;Management Information System;7340405;
+13;ENGELE2;English Elementary 2;4;General;Compulsory;;Management Information System;7340405;
+14;ENG2015;English Communication 1;3;General;Compulsory;;Management Information System;7340405;
+15;ENG2016;English Communication 2;3;General;Compulsory;;Management Information System;7340405;
+16;ENG2017;English Composition B1;2;General;Compulsory;;Management Information System;7340405;
+17;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;;Management Information System;7340405;
+18;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;;Management Information System;7340405;
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;;Management Information System;7340405;
+20;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;;Management Information System;7340405;
+21;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;;Management Information System;7340405;
+22;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;;Management Information System;7340405;
+23;IBS2001;International Business;3;Fundamental ;Compulsory;;Management Information System;7340405;
+24;LAW2001;Business Law;3;Fundamental ;Compulsory;;Management Information System;7340405;
+25;MIS3001;Basic Programming;3;Major;Compulsory;;Management Information System;7340405;
+26;MIS2001;Database;3;Major;Compulsory;;Management Information System;7340405;
+27;MIS3002;Computer Networks and Data Communications;3;Major;Compulsory;;Management Information System;7340405;
+28;MIS3045;Object Oriented Programming;3;Major;Compulsory;;Management Information System;7340405;
+29;MIS3007;Information Systems Analysis and Design;3;Major;Compulsory;;Management Information System;7340405;
+30;MIS3006;Data Structures and Algorithms;3;Major;Compulsory;;Management Information System;7340405;
+31;MIS3008;Database Management System;3;Major;Compulsory;;Management Information System;7340405;
+32;MIS3005;Discrete Mathematics;3;Specialized;Compulsory;Management Information Technology;Management Information System;7340405;734040501
+33;MIS3004;IT Project Management;3;Specialized;Compulsory;Management Information Technology;Management Information System;7340405;734040501
+34;MIS3021;Software Testing;3;Specialized;Compulsory;Management Information Technology;Management Information System;7340405;734040501
+35;MIS3048;Web Design;3;Specialized;Compulsory;Management Information Technology;Management Information System;7340405;734040501
+36;MIS3010;Web Programming;3;Specialized;Compulsory;Management Information Technology;Management Information System;7340405;734040501
+37;MIS3023;Mobile Application Programming;3;Specialized;Compulsory;Management Information Technology;Management Information System;7340405;734040501
+38;MIS2012;Career Internship;3;Specialized;Compulsory;Management Information Technology;Management Information System;7340405;734040501
+39;MIS3030;Information System Analysis and Design - Practice;2;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+40;RMD3001;Scientific Research Methodology;2;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+41;MIS3047;Business process management;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+42;MIS3011;Enterprise Resource Planning;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+43;MIS3034;Enterprise Resource Planning - Practice;2;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+44;MIS3041;Python for Data Analysis;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+45;ELC3006;Machine Learning;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+46;ELC3009;Web Data Mining;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+47;ELC3008;Artificial Intelligence for Business;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+48;MIS3009;Data Warehousing and Data Mining;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+49;MIS3012;Network Administrator;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+50;MIS3046;Software design templates;2;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+51;MIS3032;Application Programming - Practice;2;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+52;MIS3003;Safety and Security of Information Systems;3;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+53;MIS2010;Awareness Internship;2;Specialized;Elective;Management Information Technology;Management Information System;7340405;734040501
+54;MIS3003;Safety and Security of Information Systems;3;Specialized;Compulsory;Information Systems Management;Management Information System;7340405;734040502
+55;MIS3004;IT Project Management;3;Specialized;Compulsory;Information Systems Management;Management Information System;7340405;734040502
+56;MIS3009;Data Warehousing and Data Mining;3;Specialized;Compulsory;Information Systems Management;Management Information System;7340405;734040502
+57;MIS3011;Enterprise Resource Planning;3;Specialized;Compulsory;Information Systems Management;Management Information System;7340405;734040502
+58;MIS3041;Python for Data Analysis;3;Specialized;Compulsory;Information Systems Management;Management Information System;7340405;734040502
+59;MIS3047;Business process management;3;Specialized;Compulsory;Information Systems Management;Management Information System;7340405;734040502
+60;MIS2012;Career Internship;3;Specialized;Compulsory;Information Systems Management;Management Information System;7340405;734040502
+61;MIS3030;Information System Analysis and Design - Practice;2;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+62;RMD3001;Scientific Research Methodology;2;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+63;MGT3003;Operation Management;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+64;HRM3001;Human Resource Management;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+65;COM3003;Customer Relationship Management;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+66;ACC2002;Management Accounting;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+67;MGT3020;Digital Transformation;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+68;MIS3034;Enterprise Resource Planning - Practice;2;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+69;ELC3006;Machine Learning;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+70;ELC3009;Web Data Mining;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+71;ELC3007;Data Visualization;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+72;ELC3008;Artificial Intelligence for Business;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+73;MIS3010;Web Programming;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+74;MIS3048;Web Design;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+75;MIS3021;Software Testing;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+76;MIS3012;Network Administrator;3;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+77;MIS3032;Application Programming - Practice;2;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+78;MIS2010;Awareness Internship;2;Specialized;Elective;Information Systems Management;Management Information System;7340405;734040502
+79;MIS3051;Introduction to Artificial Intelligence;3;Specialized;Compulsory;Artificial Intelligence for Business;Management Information System;7340405;734040503
+80;MIS3052;Applied Mathematics in AI;3;Specialized;Compulsory;Artificial Intelligence for Business;Management Information System;7340405;734040503
+81;ELC3006;Machine Learning;3;Specialized;Compulsory;Artificial Intelligence for Business;Management Information System;7340405;734040503
+82;ELC3005;Introduction to Big Data;3;Specialized;Compulsory;Artificial Intelligence for Business;Management Information System;7340405;734040503
+83;MIS3053;Natural Language Processing;3;Specialized;Compulsory;Artificial Intelligence for Business;Management Information System;7340405;734040503
+84;MIS3054;Deep Learning for Business Applications;3;Specialized;Compulsory;Artificial Intelligence for Business;Management Information System;7340405;734040503
+85;MIS2012;Career Internship;3;Specialized;Compulsory;Artificial Intelligence for Business;Management Information System;7340405;734040503
+86;MIS3055;Artificial Intelligence Ethics and Social Responsibility;2;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+87;ELC3009;Web Data Mining;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+88;MIS3056;Recommendation Systems;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+89;MGT3020;Digital Transformation;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+90;RMD3001;Scientific Research Methodology;2;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+91;MIS3048;Web Design;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+92;MIS3010;Web programming;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+93;MIS3003;Safety and Security of Information Systems;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+94;MIS3011;Enterprise Resource Planning;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+95;MIS3004;IT Project Management;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+96;ELC3007;Data Visualization;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+97;MIS3041;Python for Data Analysis;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+98;MIS3009;Data Warehousing and Data Mining;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+99;MIS3043;Big Data Analytics Tools;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+100;MIS3047;Business process management;3;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+101;MIS2010;Awareness Internship;2;Specialized;Elective;Artificial Intelligence for Business;Management Information System;7340405;734040503
+102;MIS4001;Graduation Internship Report;4;Specialized;Elective;;Management Information System;7340405;
+103;MIS4002;Graduation Thesis;10;Specialized;Elective;;Management Information System;7340405;
+104;MIS4099;Graduation Project;10;Specialized;Elective;;Management Information System;7340405;
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;;Tourism and Travel Management;7810103;
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;;Tourism and Travel Management;7810103;
+3;SMT1007;Scientific Socialism;2;General;Compulsory;;Tourism and Travel Management;7810103;
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;;Tourism and Travel Management;7810103;
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;;Tourism and Travel Management;7810103;
+6;LAW1001;General Law;2;General;Compulsory;;Tourism and Travel Management;7810103;
+7;TOU1001;Business Communication;3;General;Compulsory;;Tourism and Travel Management;7810103;
+8;MGT1001;Microeconomics;3;General;Compulsory;;Tourism and Travel Management;7810103;
+9;ECO1001;Macroeconomics;3;General;Compulsory;;Tourism and Travel Management;7810103;
+10;MGT1002;Management;3;General;Compulsory;;Tourism and Travel Management;7810103;
+11;ENGELE1;English Elementary 1;3;General;Compulsory;;Tourism and Travel Management;7810103;
+12;ENGELE2;English Elementary 2;4;General;Compulsory;;Tourism and Travel Management;7810103;
+13;ENG2015;English Communication 1;3;General;Compulsory;;Tourism and Travel Management;7810103;
+14;ENG2016;English Communication 2 ;3;General;Compulsory;;Tourism and Travel Management;7810103;
+15;ENG2017;English Composition B1 ;2;General;Compulsory;;Tourism and Travel Management;7810103;
+16;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;;Tourism and Travel Management;7810103;
+17;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;;Tourism and Travel Management;7810103;
+18;IBS2001;International Business;3;Fundamental ;Compulsory;;Tourism and Travel Management;7810103;
+19;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;;Tourism and Travel Management;7810103;
+20;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;;Tourism and Travel Management;7810103;
+21;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;;Tourism and Travel Management;7810103;
+22;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;;Tourism and Travel Management;7810103;
+23;TOU3008;Strategy in Tourism;3;Major;Compulsory;;Tourism and Travel Management;7810103;
+24;TOU3047;Supervision in the Hospitality Industry;3;Major;Compulsory;;Tourism and Travel Management;7810103;
+25;TOU3002;Service Operation Management;3;Major;Compulsory;;Tourism and Travel Management;7810103;
+26;TOU3009;Hospitality Financial Management;3;Major;Compulsory;;Tourism and Travel Management;7810103;
+27;TOU3001;Introduction to Tourism;3;Major;Compulsory;;Tourism and Travel Management;7810103;
+28;ACC2002;Management Accounting;3;Major;Elective;;Tourism and Travel Management;7810103;
+29;MGT3011;Entrepreneurship;3;Major;Elective;;Tourism and Travel Management;7810103;
+30;IBS3007;Cross-cultural Management;3;Major;Elective;;Tourism and Travel Management;7810103;
+31;TOU3048;Destination Management;3;Major;Elective;;Tourism and Travel Management;7810103;
+32;COM3003;Customer Relationship Management;3;Major;Elective;;Tourism and Travel Management;7810103;
+33;COM3010;Design Thinking and Customer Experience;3;Major;Elective;;Tourism and Travel Management;7810103;
+34;HOS3001;Service Marketing;3;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+35;TOU3005;Tourguiding;2;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+36;TOU3055;Hotel Operations;3;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+37;LAW3042;Law on Tourism;2;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+38;TOU3046;Tour Operator Management;3;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+39;TOU3054;Hospitality Management;2;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+40;HOS3021;Restaurant Management;2;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+41;TOU3026;Human Resource Management in the Tourism Industry;3;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+42;TOU3051;Event Management;3;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+43;TOU3056;Tour Design and Operation;2;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+44;ENG3002;English for Tourism;3;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+45;TOU3059;Travel Agency & Online Booking;2;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+46;HOS3009;Software Application In Hotel;3;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+47;TOU3032;Vietnamese Culture;2;Specialized;Compulsory;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+48;TOU3010;Tourism Geography;2;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+49;TOU3052;Occupational Internship;3;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+50;TOU3060;Tour Selling Skills;2;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+51;MKT3007;Digital Marketing;3;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+52;MKT3024;Social Media and Mobile Marketing;3;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+53;RMD3001;Research Methodology;2;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+54;TOU3028;Administrative Formalities in Tour Operation;3;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+55;COM3001;E - Commerce;3;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+56;TOU3023;Mice Tourism;2;Specialized;Elective;Tourism Business Management;Tourism and Travel Management;7810103;781010301
+57;TOU3057;Regulations and Legal Procedures in Organising Events;2;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+58;MKT3019;Online Marketing Communication Tool;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+59;TOU3023;Mice Tourism;2;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+60;TOU3034;Event Coordination and Production;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+61;TOU3035;Event Fundraising and Sponsorship;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+62;TOU3037;Master of Ceremonies & Cheerleader;2;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+63;TOU3038;Marketing Events;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+64;TOU3039;Introduction to Event Management;2;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+65;TOU3040;Management Project Events;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+66;TOU3041;Event Logistics Management;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+67;TOU3058;Risk Management for Event;2;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+68;TOU3043;Event Design & Decoration;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+69;ENG3002;English for Tourism;3;Specialized;Compulsory;Event Management;Tourism and Travel Management;7810103;781010302
+70;TOU3036;Consumer Behavior in Events;2;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+71;TOU3053;Occupational Internship;3;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+72;MKT3007;Digital Marketing;3;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+73;TOU3024;Consumer Behavior in Tourism;2;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+74;RMD3001;Research Methodology;2;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+75;TOU3046;Tour Operator Management;3;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+76;TOU3054;Hospitality Management;2;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+77;HOS3021;Restaurant Management;2;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+78;TOU3056;Tour Design and Operation;2;Specialized;Elective;Event Management;Tourism and Travel Management;7810103;781010302
+79;HOS4001;Practical Report for Graduation Purpose;4;Specialized;Elective;;Tourism and Travel Management;7810103;
+80;HOS4002;Graduation Thesis;10;Specialized;Elective;;Tourism and Travel Management;7810103;
+81;HOS4099;Graduation Project;10;Specialized;Elective;;Tourism and Travel Management;7810103;
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+6;LAW1001;General Law;2;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+7;TOU1001;Business Communication;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+8;MGT1001;Microeconomics;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+9;ECO1001;Macroeconomics;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+10;MGT1002;Management;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+11;ENGELE1;English Elementary 1;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+12;ENGELE2;English Elementary 2;4;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+13;ENG2015;English Communication 1;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+14;ENG2016;English Communication 2 ;3;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+15;ENG2017;English Composition B1 ;2;General;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+16;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+17;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+18;IBS2001;International Business;3;Fundamental ;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+19;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+20;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+21;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+22;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+23;TOU3008;Strategy in Tourism;3;Major;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+24;TOU3047;Supervision in the Hospitality Industry;3;Major;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+25;TOU3002;Service Operation Management;3;Major;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+26;TOU3009;Hospitality Financial Management;3;Major;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+27;TOU3001;Introduction to Tourism;3;Major;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+28;TOU3024;Consumer Behavior in Tourism;2;Major;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+29;ACC2002;Management Accounting;3;Major;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+30;MGT3011;Entrepreneurship;3;Major;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+31;IBS3007;Cross-cultural Management;3;Major;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+32;TOU3048;Destination Management;3;Major;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+33;COM3010;Design Thinking and Customer Experience;3;Major;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+34;TOU3032;Vietnamese Culture;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+35;HOS3013;Cost Control in the Hotel;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+36;HOS3018;Occupational Internship;3;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+37;HOS3001;Service Marketing;3;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+38;HOS3017;Occupational skills in housekeeping;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+39;TOU3049;Occupational Skills in Reception;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+40;TOU3050;Occupational skills in restaurant;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+41;HOS3002;Introduction to Hospitality;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+42;LAW3042;Law on Tourism;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+43;HOS3005;Back Office Operations;3;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+44;HOS3019;Housekeeping Management;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+45;HOS3020;Hotel Front Office Management;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+46;HOS3021;Restaurant Management;2;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+47;TOU3026;Human Resource Management in the Tourism Industry;3;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+48;ENG3002;English for Tourism;3;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+49;HOS3009;Software Application In Hotel;3;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+50;HOS3010;Hospitality Security And Safety;2;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+51;HOS3011;Introduction of Spa Industry;2;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+52;HOS3014;Hotel Room Selling Skills;2;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+53;MKT3007;Digital Marketing;3;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+54;MKT3024;Social Media and Mobile Marketing;3;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+55;RMD3001;Research Methodology;2;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+56;HOS3016;Bar and Bartending Management;2;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+57;TOU3051;Event Management;3;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+58;COM3001;E - Commerce;3;Specialized;Elective;Hospitality Management;Hospitality Management;7810201;781020101
+59;HOS4001;Practical Report for Graduation Purpose;4;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+60;HOS4002;Graduation Thesis;10;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+61;HOS4099;Graduation Project;10;Specialized;Compulsory;Hospitality Management;Hospitality Management;7810201;781020101
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Accounting;Accounting;7340301;734030101
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Accounting;Accounting;7340301;734030101
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Accounting;Accounting;7340301;734030101
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Accounting;Accounting;7340301;734030101
+6;LAW1001;General Law;2;General;Compulsory;Accounting;Accounting;7340301;734030101
+7;TOU1001;Business Communication;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+8;MIS1002;IT for Business;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+9;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+10;MGT1001;Microeconomics;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+11;ECO1001;Macroeconomics;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+12;MGT1002;Management;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+13;ENGELE1;English Elementary 1;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+14;ENGELE2;English Elementary 2;4;General;Compulsory;Accounting;Accounting;7340301;734030101
+15;ENG2015;English Communication 1;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+16;ENG2016;English Communication 2 ;3;General;Compulsory;Accounting;Accounting;7340301;734030101
+17;ENG2017;English Composition B1 ;2;General;Compulsory;Accounting;Accounting;7340301;734030101
+18;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+20;IBS2001;International Business;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+21;LAW2001;Business Law;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+22;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+23;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+24;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+25;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+26;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+27;ENG3001;Business English;3;Fundamental ;Compulsory;Accounting;Accounting;7340301;734030101
+28;ACC2001;Financial Accounting 1;3;Major;Compulsory;Accounting;Accounting;7340301;734030101
+29;ACC2002;Management Accounting;3;Major;Compulsory;Accounting;Accounting;7340301;734030101
+30;ACC2004;Accounting in Public Sector;3;Major;Compulsory;Accounting;Accounting;7340301;734030101
+31;ACC3001;Financial Accounting 2;3;Major;Compulsory;Accounting;Accounting;7340301;734030101
+32;FIN3004;Corporate Finance;3;Major;Compulsory;Accounting;Accounting;7340301;734030101
+33;ACC3015;Corporate Governance and Professional Accounting;2;Major;Elective;Accounting;Accounting;7340301;734030101
+34;AUD3004;Internal Control;3;Major;Elective;Accounting;Accounting;7340301;734030101
+35;ELC3020;Data Science for Business;3;Major;Elective;Accounting;Accounting;7340301;734030101
+36;FIN3002;Investments;3;Major;Elective;Accounting;Accounting;7340301;734030101
+37;RMD3001;Research Methodology;2;Major;Elective;Accounting;Accounting;7340301;734030101
+38;ACC3005;Company Accounting;3;Specialized;Compulsory;Accounting;Accounting;7340301;734030101
+39;ACC3006;Financial Statement Analysis and Valuation;3;Specialized;Compulsory;Accounting;Accounting;7340301;734030101
+40;ACC3007;Tax Accounting;3;Specialized;Compulsory;Accounting;Accounting;7340301;734030101
+41;ACC3008;Accounting Information Systems;3;Specialized;Compulsory;Accounting;Accounting;7340301;734030101
+42;ACC3010;Accounting Practice;3;Specialized;Compulsory;Accounting;Accounting;7340301;734030101
+43;ACC3012;Cost Accounting;3;Specialized;Compulsory;Accounting;Accounting;7340301;734030101
+44;AUD3005;Auditing;3;Specialized;Compulsory;Accounting;Accounting;7340301;734030101
+45;ACC3013;Environmental Accounting;3;Specialized;Elective;Accounting;Accounting;7340301;734030101
+46;ACC3014;Data Analytics for Accounting;3;Specialized;Elective;Accounting;Accounting;7340301;734030101
+47;ACC3016;Public Sector Accounting Standards;3;Specialized;Elective;Accounting;Accounting;7340301;734030101
+48;ACC3017;International Accounting Reporting Standards;3;Specialized;Elective;Accounting;Accounting;7340301;734030101
+49;AUD3003;Performance Auditing;3;Specialized;Elective;Accounting;Accounting;7340301;734030101
+50;BAN3004;Accounting for Banking;3;Specialized;Elective;Accounting;Accounting;7340301;734030101
+51;FIN3010;Financial Modelling;3;Specialized;Elective;Accounting;Accounting;7340301;734030101
+59;ACC4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Accounting;Accounting;7340301;734030101
+60;ACC4002;Graduation Thesis;10;Specialized;Elective;Accounting;Accounting;7340301;734030101
+1;ECO1001;Macroeconomics;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+2;ENG2015;English Communication 1;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+3;ENG2016;English Communication 2 ;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+4;ENG2017;English Composition B1 ;2;General;Compulsory;Auditing;Auditing;7340302;734030201
+5;ENGELE1;English Elementary 1;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+6;ENGELE2;English Elementary 2;4;General;Compulsory;Auditing;Auditing;7340302;734030201
+7;LAW1001;General Law;2;General;Compulsory;Auditing;Auditing;7340302;734030201
+8;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+9;MGT1001;Microeconomics;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+10;MGT1002;Management;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+11;MIS1002;IT for Business;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+12;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Auditing;Auditing;7340302;734030201
+13;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+14;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Auditing;Auditing;7340302;734030201
+15;SMT1007;Scientific Socialism;2;General;Compulsory;Auditing;Auditing;7340302;734030201
+16;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Auditing;Auditing;7340302;734030201
+17;TOU1001;Business Communication;3;General;Compulsory;Auditing;Auditing;7340302;734030201
+18;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+19;ENG3001;Business English;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+20;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+21;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+22;IBS2001;International Business;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+23;LAW2001;Business Law;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+24;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+25;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+26;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+27;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Auditing;Auditing;7340302;734030201
+28;ACC2001;Financial Accounting 1;3;Major;Compulsory;Auditing;Auditing;7340302;734030201
+29;ACC3001;Financial Accounting 2;3;Major;Compulsory;Auditing;Auditing;7340302;734030201
+30;ACC3008;Accounting Information Systems;3;Major;Compulsory;Auditing;Auditing;7340302;734030201
+31;AUD2001;Principles of Auditing;3;Major;Compulsory;Auditing;Auditing;7340302;734030201
+32;AUD3004;Internal Control;3;Major;Compulsory;Auditing;Auditing;7340302;734030201
+33;ACC3015;Corporate Governance and Professional Accounting;2;Major;Elective;Auditing;Auditing;7340302;734030201
+34;BAN3006;International Payments;3;Major;Elective;Auditing;Auditing;7340302;734030201
+35;FIN3002;Investments;3;Major;Elective;Auditing;Auditing;7340302;734030201
+36;FIN3004;Corporate Finance;3;Major;Elective;Auditing;Auditing;7340302;734030201
+37;RMD3001;Research Methodology;2;Major;Elective;Auditing;Auditing;7340302;734030201
+38;ACC3005;Company Accounting;3;Specialized;Compulsory;Auditing;Auditing;7340302;734030201
+39;ACC3006;Financial Statement Analysis and Valuation;3;Specialized;Compulsory;Auditing;Auditing;7340302;734030201
+40;ACC3007;Tax Accounting;3;Specialized;Compulsory;Auditing;Auditing;7340302;734030201
+41;AUD3001;Audit of Financial Statements 1;3;Specialized;Compulsory;Auditing;Auditing;7340302;734030201
+42;AUD3002;Audit of Financial Statements 2;3;Specialized;Compulsory;Auditing;Auditing;7340302;734030201
+43;AUD3003;Performance Auditing;3;Specialized;Compulsory;Auditing;Auditing;7340302;734030201
+44;AUD3006;Auditing Practice;3;Specialized;Compulsory;Auditing;Auditing;7340302;734030201
+45;ACC2002;Management Accounting;3;Specialized;Elective;Auditing;Auditing;7340302;734030201
+46;ACC2004;Accounting in Public Sector;3;Specialized;Elective;Auditing;Auditing;7340302;734030201
+47;ACC3010;Accounting Practice;3;Specialized;Elective;Auditing;Auditing;7340302;734030201
+48;ACC3012;Cost Accounting;3;Specialized;Elective;Auditing;Auditing;7340302;734030201
+49;ACC3014;Data Analytics for Accounting;3;Specialized;Elective;Auditing;Auditing;7340302;734030201
+50;ACC3017;International Accounting Reporting Standards;3;Specialized;Elective;Auditing;Auditing;7340302;734030201
+51;AUD3007;Information Systems Audit;3;Specialized;Elective;Auditing;Auditing;7340302;734030201
+59;AUD4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Auditing;Auditing;7340302;734030201
+60;AUD4002;Graduation Thesis;10;Specialized;Elective;Auditing;Auditing;7340302;734030201
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+6;LAW1001;General Law;2;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+7;TOU1001;Business Communication;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+8;MGT1001;Microeconomics;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+9;ECO1001;Macroeconomics;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+10;MGT1002;Management;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+11;MIS1002;IT for Business;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+12;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+13;ENGELE1;English Elementary 1;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+14;ENGELE2;English Elementary 2;4;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+15;ENG2015;English Communication 1;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+16;ENG2016;English Communication 2 ;3;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+17;ENG2017;English Composition B1 ;2;General;Compulsory;Foreign Trade;International Business;7340120;734012001
+18;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+20;IBS2001;International Business;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+21;LAW2001;Business Law;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+22;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+23;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+24;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+25;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+26;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+27;ENG3001;Business English;3;Fundamental ;Compulsory;Foreign Trade;International Business;7340120;734012001
+28;IBS2003;International Trade Practices;3;Major;Compulsory;Foreign Trade;International Business;7340120;734012001
+29;IBS2002;International Economics;3;Major;Compulsory;Foreign Trade;International Business;7340120;734012001
+30;IBS3007;Cross-cultural Management;3;Major;Compulsory;Foreign Trade;International Business;7340120;734012001
+31;IBS3005;International Business Management;3;Major;Compulsory;Foreign Trade;International Business;7340120;734012001
+32;FIN3004;Corporate Finance;3;Major;Compulsory;Foreign Trade;International Business;7340120;734012001
+33;IBS3003;Foreign Investment;3;Major;Elective;Foreign Trade;International Business;7340120;734012001
+34;ACC2002;Management Accounting;3;Major;Elective;Foreign Trade;International Business;7340120;734012001
+35;IBS3010;International Marketing;3;Major;Elective;Foreign Trade;International Business;7340120;734012001
+36;RMD3001;Research Methodology;2;Major;Elective;Foreign Trade;International Business;7340120;734012001
+37;IBS3001;Business Ethics;3;Major;Elective;Foreign Trade;International Business;7340120;734012001
+38;IBS3013;Business Negotiation;3;Specialized;Compulsory;Foreign Trade;International Business;7340120;734012001
+39;IBS3004;Import Export Business;3;Specialized;Compulsory;Foreign Trade;International Business;7340120;734012001
+40;IBS3002;International Logistics and Trade;3;Specialized;Compulsory;Foreign Trade;International Business;7340120;734012001
+41;IBS3006;Global Strategic Management;3;Specialized;Compulsory;Foreign Trade;International Business;7340120;734012001
+42;IBS3008;Multinational Financial Management;3;Specialized;Compulsory;Foreign Trade;International Business;7340120;734012001
+43;IBS3009;Finance of International Trade;3;Specialized;Compulsory;Foreign Trade;International Business;7340120;734012001
+44;IBS3014;Multimodal Transportation;3;Specialized;Compulsory;Foreign Trade;International Business;7340120;734012001
+45;IBS3016;International Business Simulation;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+46;IBS3015;Asian Pacific Business Management;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+47;IBS3012;Intellectual Property Management;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+48;IBS3011;International Rules and  Institutions for Tradepolig;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+49;ELC3002;Digital Content Management;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+50;COM3001;E - Commerce;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+51;MKT3013;Multimedia Communication Design;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+52;MKT3003;Consumer Behavior;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+53;HOS3001;Service Marketing;3;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+54;IBS4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+55;IBS4002;Graduation Thesis;10;Specialized;Elective;Foreign Trade;International Business;7340120;734012001
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;;Economics;7310101;
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;;Economics;7310101;
+3;SMT1007;Scientific Socialism;2;General;Compulsory;;Economics;7310101;
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;;Economics;7310101;
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;;Economics;7310101;
+6;LAW1001;General Law;2;General;Compulsory;;Economics;7310101;
+7;TOU1001;Business Communication;3;General;Compulsory;;Economics;7310101;
+8;MIS1002;IT for Business;3;General;Compulsory;;Economics;7310101;
+9;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;;Economics;7310101;
+10;MGT1001;Microeconomics;3;General;Compulsory;;Economics;7310101;
+11;ECO1001;Macroeconomics;3;General;Compulsory;;Economics;7310101;
+12;MGT1002;Management;3;General;Compulsory;;Economics;7310101;
+13;ENGELE1;English Elementary 1;3;General;Compulsory;;Economics;7310101;
+14;ENGELE2;English Elementary 2;4;General;Compulsory;;Economics;7310101;
+15;ENG2015;English Communication 1;3;General;Compulsory;;Economics;7310101;
+16;ENG2016;English Communication 2 ;3;General;Compulsory;;Economics;7310101;
+17;ENG2017;English Composition B1 ;2;General;Compulsory;;Economics;7310101;
+18;SMT2001;History of Economics Theories;3;Fundamental ;Compulsory;;Economics;7310101;
+19;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;;Economics;7310101;
+20;ECO2002;Development Economics;3;Fundamental ;Compulsory;;Economics;7310101;
+21;IBS2002;International Economics;3;Fundamental ;Compulsory;;Economics;7310101;
+22;ECO2004;Public Economics 1;3;Fundamental ;Compulsory;;Economics;7310101;
+23;BAN2001;Public Finance;3;Fundamental ;Compulsory;;Economics;7310101;
+24;ECO2003;Enviromental Economics;3;Fundamental ;Compulsory;;Economics;7310101;
+25;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;;Economics;7310101;
+26;ECO2001;State Management of Economy;3;Fundamental ;Compulsory;;Economics;7310101;
+27;ENG3005;English for Economics;3;Fundamental ;Compulsory;;Economics;7310101;
+28;ECO3001;Advanced Marcroeconomics;3;Major;Compulsory;;Economics;7310101;
+29;ECO3002;Social and Economic Development Forecast;3;Major;Compulsory;;Economics;7310101;
+30;ECO3003;Game Theory and Principle of Strategy;3;Major;Compulsory;;Economics;7310101;
+31;MGT2001;Advanced Microeconomics;3;Major;Compulsory;;Economics;7310101;
+32;STA3001;Econometrics;3;Major;Compulsory;;Economics;7310101;
+33;ECO3021;Population and Development;2;Major;Elective;Development Economics;Economics;7310101;731010101
+34;ECO3015;Investment Economics;3;Major;Elective;Development Economics;Economics;7310101;731010101
+35;STA3013;Data Analysis and Visualization;3;Major;Elective;Development Economics;Economics;7310101;731010101
+36;ECO3019;Quantitative Methods in Economics;3;Major;Elective;Development Economics;Economics;7310101;731010101
+37;BAN3020;Development Finance;3;Major;Elective;Development Economics;Economics;7310101;731010101
+38;ECO3006;Strategy for Socio-Economic Development;3;Specialized;Compulsory;Development Economics;Economics;7310101;731010101
+39;ECO3007;Program and Project of Social-Economic Development;3;Specialized;Compulsory;Development Economics;Economics;7310101;731010101
+40;ECO3004;Advanced Development Economics;3;Specialized;Compulsory;Development Economics;Economics;7310101;731010101
+41;ECO3020;Regional Economics;3;Specialized;Compulsory;Development Economics;Economics;7310101;731010101
+42;ECO3035;Human Resource Economics;3;Specialized;Compulsory;Development Economics;Economics;7310101;731010101
+43;ECO3029;Digital Economics;3;Specialized;Compulsory;Development Economics;Economics;7310101;731010101
+44;ECO3005;Socio-Economic Analysis;3;Specialized;Compulsory;Development Economics;Economics;7310101;731010101
+45;MIS3024;E-Government;2;Specialized;Elective;Development Economics;Economics;7310101;731010101
+46;ECO3028;Public Policy;3;Specialized;Elective;Development Economics;Economics;7310101;731010101
+47;ECO3007;Program and Project of Social-Economic Development;3;Specialized;Elective;Development Economics;Economics;7310101;731010101
+48;ECO3033;International Investment and Development;3;Specialized;Elective;Development Economics;Economics;7310101;731010101
+49;STA3002;The system of National Accounts;3;Specialized;Elective;Development Economics;Economics;7310101;731010101
+50;ECO3022;Rural Development;3;Specialized;Elective;Development Economics;Economics;7310101;731010101
+51;RMD3001;Research Methodology;2;Specialized;Elective;Development Economics;Economics;7310101;731010101
+52;ECO3026;Public Management;3;Specialized;Elective;Development Economics;Economics;7310101;731010101
+53;ECO3019;Quantitative Methods in Economics;3;Major;Elective;Economics and Public Management;Economics;7310101;731010103
+54;ECO3029;Digital Economics;3;Major;Elective;Economics and Public Management;Economics;7310101;731010103
+55;ECO3033;International Investment and Development;3;Major;Elective;Economics and Public Management;Economics;7310101;731010103
+56;STA3013;Data Analysis and Visualization;3;Major;Elective;Economics and Public Management;Economics;7310101;731010103
+57;FIN2001;Financial Markets and Institutions;3;Major;Elective;Economics and Public Management;Economics;7310101;731010103
+58;LAW2007;Administrative Law;3;Specialized;Compulsory;Economics and Public Management;Economics;7310101;731010103
+59;ECO3004;Advanced Development Economics;3;Specialized;Compulsory;Economics and Public Management;Economics;7310101;731010103
+60;ECO3005;Socio-Economic Analysis;3;Specialized;Compulsory;Economics and Public Management;Economics;7310101;731010103
+61;ECO3028;Public Policy;3;Specialized;Compulsory;Economics and Public Management;Economics;7310101;731010103
+62;ECO3014;Public Economics 2;3;Specialized;Compulsory;Economics and Public Management;Economics;7310101;731010103
+63;ECO3026;Public Management;3;Specialized;Compulsory;Economics and Public Management;Economics;7310101;731010103
+64;MIS3024;E-Government;2;Specialized;Compulsory;Economics and Public Management;Economics;7310101;731010103
+65;ECO3035;Human Resource Economics;3;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+66;ECO3016;Investment Project Appraisal;3;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+67;ECO3020;Regional Economics;3;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+68;BAN3020;Development Finance;3;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+69;RMD3001;Research Methodology;2;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+70;SMT3027;Public Administration;3;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+71;ECO3021;Population and Development;2;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+72;MKT3030;Public Marketing;3;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+73;SMT3024;Public Relations and Communications Public Service;2;Specialized;Elective;Economics and Public Management;Economics;7310101;731010103
+75;ECO3019;Quantitative Methods in Economics;3;Major;Elective;Investment Economics;Economics;7310101;731010104
+76;ECO3029;Digital Economics;3;Major;Elective;Investment Economics;Economics;7310101;731010104
+77;ECO3033;International Investment and Development;3;Major;Elective;Investment Economics;Economics;7310101;731010104
+78;STA3013;Data Analysis and Visualization;3;Major;Elective;Investment Economics;Economics;7310101;731010104
+79;FIN2001;Financial Markets and Institutions;3;Major;Elective;Investment Economics;Economics;7310101;731010104
+80;ECO3015;Investment Economics;3;Specialized;Compulsory;Investment Economics;Economics;7310101;731010104
+81;ECO3016;Investment Project Appraisal;3;Specialized;Compulsory;Investment Economics;Economics;7310101;731010104
+82;ECO3017;Investment Project Design;3;Specialized;Compulsory;Investment Economics;Economics;7310101;731010104
+83;ECO3018;Investment Promotion and Facilitation;3;Specialized;Compulsory;Investment Economics;Economics;7310101;731010104
+84;FIN3002;Investments;3;Specialized;Compulsory;Investment Economics;Economics;7310101;731010104
+85;MGT3004;Project Management;3;Specialized;Compulsory;Investment Economics;Economics;7310101;731010104
+86;ECO3027;Project on Investment Economics;2;Specialized;Compulsory;Investment Economics;Economics;7310101;731010104
+87;LAW3012;Investment Law;2;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+88;ECO3008;Planning Socio-Economic Development;3;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+89;ECO3020;Regional Economics;3;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+90;ECO3021;Population and Development;2;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+91;ECO3007;Program and Project of Social-Economic Development;3;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+92;ECO3022;Rural Development;3;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+93;FIN3006;Financial Management;3;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+94;BAN3020;Development Finance;3;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+95;RMD3001;Research Methodology;2;Specialized;Elective;Investment Economics;Economics;7310101;731010104
+96;ECO3029;Digital Economics;3;Major;Elective;International Economics;Economics;7310101;731010105
+97;ECO3037;Regional Economy;3;Major;Elective;International Economics;Economics;7310101;731010105
+98;COM3001;E - Commerce;3;Major;Elective;International Economics;Economics;7310101;731010105
+99;IBS3007;Cross-cultural Management;3;Major;Elective;International Economics;Economics;7310101;731010105
+100;MGT3002;Supply Chain Management;3;Major;Elective;International Economics;Economics;7310101;731010105
+101;ECO3030;International Economic Integration;3;Specialized;Compulsory;International Economics;Economics;7310101;731010105
+102;ECO3031;Advanced International Economics;3;Specialized;Compulsory;International Economics;Economics;7310101;731010105
+103;ECO3032;International Economic Policy;3;Specialized;Compulsory;International Economics;Economics;7310101;731010105
+104;ECO3033;International Investment and Development;3;Specialized;Compulsory;International Economics;Economics;7310101;731010105
+105;FIN3001;International Finance;3;Specialized;Compulsory;International Economics;Economics;7310101;731010105
+106;ECO3034;International Economic Negotiation;3;Specialized;Compulsory;International Economics;Economics;7310101;731010105
+107;LAW3059;International Economics Law;3;Specialized;Compulsory;International Economics;Economics;7310101;731010105
+108;ECO3036;Sovereign Debt;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+109;ECO3038;The National Policies of Regulating Multinational Corporations;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+110;ECO3035;Human Resource Economics;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+111;IBS2001;International Business;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+112;BAN3006;International Payments;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+113;IBS3002;International Logistics and Trade;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+114;LAW3001;International Trade Law;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+115;RMD3001;Research Methodology;2;Specialized;Elective;International Economics;Economics;7310101;731010105
+116;STA3013;Data Analysis and Visualization;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+117;FIN2001;Financial Markets and Institutions;3;Specialized;Elective;International Economics;Economics;7310101;731010105
+118;ECO4001;Practical Report for Graduation Purpose;4;Specialized;Elective;;Economics;7310101;
+119;ECO4002;Graduation Thesis;10;Specialized;Elective;;Economics;7310101;
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Legal Study;Law;7380101;738010101
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Legal Study;Law;7380101;738010101
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Legal Study;Law;7380101;738010101
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Legal Study;Law;7380101;738010101
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Legal Study;Law;7380101;738010101
+6;SMT3010;Logic;2;General;Compulsory;Legal Study;Law;7380101;738010101
+7;TOU1001;Business Communication;3;General;Compulsory;Legal Study;Law;7380101;738010101
+8;MIS1002;IT for Business;3;General;Compulsory;Legal Study;Law;7380101;738010101
+9;MGT1001;Microeconomics;3;General;Compulsory;Legal Study;Law;7380101;738010101
+10;ECO1001;Macroeconomics;3;General;Compulsory;Legal Study;Law;7380101;738010101
+11;MGT1002;Management;3;General;Compulsory;Legal Study;Law;7380101;738010101
+12;ENGELE1;English Elementary 1;3;General;Compulsory;Legal Study;Law;7380101;738010101
+13;ENGELE2;English Elementary 2;4;General;Compulsory;Legal Study;Law;7380101;738010101
+14;ENG2015;English Communication 1;3;General;Compulsory;Legal Study;Law;7380101;738010101
+15;ENG2016;English Communication 2 ;3;General;Compulsory;Legal Study;Law;7380101;738010101
+16;ENG2017;English Composition B1 ;2;General;Compulsory;Legal Study;Law;7380101;738010101
+18;LAW2008;Public International Law;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+19;LAW2009;History of State and Law;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+20;LAW2003;Civil Law 1;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+21;LAW3003;Civil Law 2;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+22;LAW2007;Administrative Law;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+23;LAW2006;Constitutional Law;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+24;LAW2004;Criminal Law 1;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+25;LAW2005;Commercial Law 1;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+26;LAW1002;General Theory of State and Law 1;2;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+27;LAW2002;General Theory of State and Law 2;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+28;ENG3004;English for Legal Professionals;3;Fundamental ;Compulsory;Legal Study;Law;7380101;738010101
+29;LAW3013;Land Law;3;Major;Compulsory;Legal Study;Law;7380101;738010101
+30;LAW3010;Labor Law;3;Major;Compulsory;Legal Study;Law;7380101;738010101
+31;LAW3004;Criminal Law 2;3;Major;Compulsory;Legal Study;Law;7380101;738010101
+32;LAW3009;Law on Marriage and Family;2;Major;Compulsory;Legal Study;Law;7380101;738010101
+33;LAW3005;Commercial Law 2;3;Major;Compulsory;Legal Study;Law;7380101;738010101
+34;LAW3008;Procedual Civil Law;3;Major;Compulsory;Legal Study;Law;7380101;738010101
+35;LAW3007;Criminal Procedure Law;3;Major;Compulsory;Legal Study;Law;7380101;738010101
+36;LAW3195;Project;2;Major;Elective;Legal Study;Law;7380101;738010101
+37;LAW3023;Comparative Law;2;Major;Elective;Legal Study;Law;7380101;738010101
+38;LAW3002;Law of Finance;2;Major;Elective;Legal Study;Law;7380101;738010101
+39;LAW3026;Human Rights Law;2;Major;Elective;Legal Study;Law;7380101;738010101
+40;HRM3006;Psychology;2;Major;Elective;Legal Study;Law;7380101;738010101
+41;LAW3024;Criminologie;2;Major;Elective;Legal Study;Law;7380101;738010101
+42;LAW3056;General Skills in Legal Advice;3;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+43;LAW3018;Intellectual Property Law;2;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+44;LAW3001;International Trade Law;3;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+45;LAW3015;Administrative Procedure Law;2;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+46;LAW3032;Law of Notarizing and Authentication;2;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+47;LAW3060;Enforcement Law;2;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+48;LAW3011;Private International Law;3;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+49;LAW3040;Formulation of Legal Documents;2;Specialized;Compulsory;Legal Study;Law;7380101;738010101
+50;LAW3055;Case Law in The Vietnam's Legal System;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+51;LAW3057;Out-of-Court Settlement of Disputes;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+52;LAW3052;Oral Argument Skills in Legal Profession;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+53;LAW3030;Lawyer Law;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+54;LAW3031;Law on State Compensation Liability;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+55;LAW3038;Social Security Law;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+56;LAW3039;Law on Inspection and Complaint, Denouncement;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+57;RMD3001;Research Methodology;2;Specialized;Elective;Legal Study;Law;7380101;738010101
+58;LAW4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Legal Study;Law;7380101;738010101
+59;LAW4002;Graduation Thesis;10;Specialized;Elective;Legal Study;Law;7380101;738010101
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Business Law;Economics Law;7380107;738010701
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Business Law;Economics Law;7380107;738010701
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Business Law;Economics Law;7380107;738010701
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Business Law;Economics Law;7380107;738010701
+6;SMT3010;Logic;2;General;Compulsory;Business Law;Economics Law;7380107;738010701
+7;TOU1001;Business Communication;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+8;MIS1002;IT for Business;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+9;MGT1001;Microeconomics;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+10;ECO1001;Macroeconomics;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+11;MGT1002;Management;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+12;ENGELE1;English Elementary 1;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+13;ENGELE2;English Elementary 2;4;General;Compulsory;Business Law;Economics Law;7380107;738010701
+14;ENG2015;English Communication 1;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+15;ENG2016;English Communication 2 ;3;General;Compulsory;Business Law;Economics Law;7380107;738010701
+16;ENG2017;English Composition B1 ;2;General;Compulsory;Business Law;Economics Law;7380107;738010701
+17;LAW2009;History of State and Law;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+18;LAW1002;General Theory of State and Law 1;2;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+19;LAW2002;General Theory of State and Law 2;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+20;ENG3004;English for Legal Professionals;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+21;LAW2006;Constitutional Law;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+22;LAW2007;Administrative Law;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+23;LAW2004;Criminal Law 1;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+24;LAW2003;Civil Law 1;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+25;LAW3003;Civil Law 2;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+26;LAW2008;Public International Law;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+27;LAW2005;Commercial Law 1;3;Fundamental ;Compulsory;Business Law;Economics Law;7380107;738010701
+28;LAW3040;Formulation of Legal Documents;2;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+29;LAW3053;Penal Code - Crime Part;2;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+30;LAW3058;Law of Banking;2;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+31;LAW3008;Procedual Civil Law;3;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+32;LAW3009;Law on Marriage and Family;2;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+33;LAW3007;Criminal Procedure Law;3;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+34;LAW3011;Private International Law;3;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+35;LAW3043;Skills For Legal Professionals;2;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+36;LAW3002;Law of Finance;2;Major;Compulsory;Business Law;Economics Law;7380107;738010701
+37;LAW3036;Law on Competition and Protection on Consumers' Interests;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+38;LAW3037;Business Real Property Law;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+39;LAW3015;Administrative Procedure Law;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+40;LAW3027;Law on Environment;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+41;LAW3048;Law on Securities Trading;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+42;RMD3001;Research Methodology;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+43;LAW3049;Labour Dispute Resolution Skills;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+44;LAW3042;Law on Tourism;2;Major;Elective;Business Law;Economics Law;7380107;738010701
+45;LAW3095;Project;2;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+46;LAW3035;Commercial Contract Drafting Skills;2;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+47;LAW3013;Land Law;3;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+48;LAW3012;Investment Law;2;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+49;LAW3010;Labor Law;3;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+50;LAW3018;Intellectual Property Law;2;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+51;LAW3005;Commercial Law 2;3;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+52;LAW3001;International Trade Law;3;Specialized;Compulsory;Business Law;Economics Law;7380107;738010701
+53;LAW3045;Legal Consulting Skills;2;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+54;LAW3046;Skills of Settlement of Labor Disputes;2;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+55;LAW3041;Law on E-Commerce;3;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+56;LAW3047;Economic Crimes;2;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+57;LAW3050;International Investment Law;2;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+58;LAW3044;Commercial Dispute Resolution Skills;2;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+59;LAW3054;WTO Law;2;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+60;LAW3051;Law on Logistics Services;2;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+61;LAW4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+62;LAW4002;Graduation Thesis;10;Specialized;Elective;Business Law;Economics Law;7380107;738010701
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;;State Management;7310205;
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;;State Management;7310205;
+3;SMT1007;Scientific Socialism;2;General;Compulsory;;State Management;7310205;
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;;State Management;7310205;
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;;State Management;7310205;
+6;LAW1001;General Law;2;General;Compulsory;;State Management;7310205;
+7;TOU1001;Business Communication;3;General;Compulsory;;State Management;7310205;
+8;MGT1001;Microeconomics;3;General;Compulsory;;State Management;7310205;
+9;ECO1001;Macroeconomics;3;General;Compulsory;;State Management;7310205;
+10;MGT1002;Management;3;General;Compulsory;;State Management;7310205;
+11;MIS1002;IT for Business;3;General;Compulsory;;State Management;7310205;
+12;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;;State Management;7310205;
+13;ENGELE1;English Elementary 1;3;General;Compulsory;;State Management;7310205;
+14;ENGELE2;English Elementary 2;4;General;Compulsory;;State Management;7310205;
+15;ENG2015;English Communication 1;3;General;Compulsory;;State Management;7310205;
+16;ENG2016;English Communication 2 ;3;General;Compulsory;;State Management;7310205;
+17;ENG2017;English Composition B1 ;2;General;Compulsory;;State Management;7310205;
+18;ECO2004;Public Economics 1;3;Fundamental ;Compulsory;;State Management;7310205;
+19;ECO2003;Enviromental Economics;3;Fundamental ;Compulsory;;State Management;7310205;
+20;ECO2002;Development Economics;3;Fundamental ;Compulsory;;State Management;7310205;
+21;IBS2002;International Economics;3;Fundamental ;Compulsory;;State Management;7310205;
+22;SMT2001;History of Economics Theories;3;Fundamental ;Compulsory;;State Management;7310205;
+23;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;;State Management;7310205;
+24;ECO2001;State Management of Economy;3;Fundamental ;Compulsory;;State Management;7310205;
+25;BAN2001;Public Finance;3;Fundamental ;Compulsory;;State Management;7310205;
+26;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;;State Management;7310205;
+27;ENG3005;English for Economics;3;Fundamental ;Compulsory;;State Management;7310205;
+28;MIS3024;E-Government;2;Major;Compulsory;;State Management;7310205;
+29;SMT3009;Politics;2;Major;Compulsory;;State Management;7310205;
+30;SMT3013;State Administrative History of Vietnam;3;Major;Compulsory;;State Management;7310205;
+31;SMT3033;Public Policy Analysis;3;Major;Compulsory;;State Management;7310205;
+32;SMT3019;Management and Development Organisation of the State;3;Major;Compulsory;;State Management;7310205;
+33;SMT3020;Personnel Organization in  Administrative Agencies;2;Major;Compulsory;;State Management;7310205;
+34;SMT3022;Public Service;2;Major;Elective;;State Management;7310205;
+35;SMT3002;History of Political Theory;2;Major;Elective;;State Management;7310205;
+36;SMT3010;Logic;2;Major;Elective;;State Management;7310205;
+37;LAW2007;Administrative Law;3;Major;Elective;;State Management;7310205;
+38;LAW2006;Constitutional Law;3;Major;Elective;;State Management;7310205;
+39;SMT3023;State Management of Culture;2;Major;Elective;;State Management;7310205;
+40;SMT3001;Macroeconomic Management;3;Specialized;Compulsory;Political Economy;State Management;7310205;731020501
+41;SMT3003;Theory of Modern Economics;3;Specialized;Compulsory;Political Economy;State Management;7310205;731020501
+42;SMT3028;Political Economy Theory on the Transitional Period to Socialism in Vietnam;3;Specialized;Compulsory;Political Economy;State Management;7310205;731020501
+43;SMT3029;Advanced Political Economy;3;Specialized;Compulsory;Political Economy;State Management;7310205;731020501
+44;ECO3029;Digital Economics;3;Specialized;Compulsory;Political Economy;State Management;7310205;731020501
+45;SMT3008;State Administrative Organizational Structure;3;Specialized;Compulsory;Political Economy;State Management;7310205;731020501
+46;SMT3004;Social Welfare and Social Issues;3;Specialized;Compulsory;Political Economy;State Management;7310205;731020501
+47;ECO3023;Public Sector Management;3;Specialized;Elective;Political Economy;State Management;7310205;731020501
+48;SMT3034;Public Relations and Communications Public Service;3;Specialized;Elective;Political Economy;State Management;7310205;731020501
+49;SMT3007;The Economic Theory in the Works of K.Marx and V.I.Lenin;3;Specialized;Elective;Political Economy;State Management;7310205;731020501
+50;ELC3013;Business Process Analysis and Design;3;Specialized;Elective;Political Economy;State Management;7310205;731020501
+51;RMD3001;Research Methodology;2;Specialized;Elective;Political Economy;State Management;7310205;731020501
+52;LAW3040;Formulation of Legal Documents;2;Specialized;Elective;Political Economy;State Management;7310205;731020501
+53;SMT3018;Public Servie Ethics;2;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+54;SMT3027;Public Administration;3;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+55;SMT3012;Study Administration;3;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+56;SMT3030;Administrative Document Drafting Skills;3;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+57;SMT3014;Technical Office Organization;2;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+58;SMT3031;Reception and Foreign Affairs;3;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+59;SMT3034;Public Relations and Communications Public Service;3;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+60;SMT3032;Administrative Office Management;3;Specialized;Compulsory;Public Administration;State Management;7310205;731020502
+61;SMT3021;Operations Over the Archives;2;Specialized;Elective;Public Administration;State Management;7310205;731020502
+62;RMD3001;Research Methodology;2;Specialized;Elective;Public Administration;State Management;7310205;731020502
+63;SMT3015;State Management of Urban;2;Specialized;Elective;Public Administration;State Management;7310205;731020502
+64;SMT3016;State Management on Agriculture and Rural Development;2;Specialized;Elective;Public Administration;State Management;7310205;731020502
+65;SMT3017;State Management of Resources and Environment;2;Specialized;Elective;Public Administration;State Management;7310205;731020502
+66;SMT3026;State Management of Religious and Ethnic;2;Specialized;Elective;Public Administration;State Management;7310205;731020502
+67;ECO3026;Public Management;3;Specialized;Elective;Public Administration;State Management;7310205;731020502
+68;HRM3001;Human Resource Management;3;Specialized;Elective;Public Administration;State Management;7310205;731020502
+69;SMT4003;Practical Report for Graduation Purpose;4;Specialized;Elective;;State Management;7310205;
+70;SMT4004;Graduation Thesis;10;Specialized;Elective;;State Management;7310205;
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;;Marketing;7340115;
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;;Marketing;7340115;
+3;SMT1007;Scientific Socialism;2;General;Compulsory;;Marketing;7340115;
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;;Marketing;7340115;
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;;Marketing;7340115;
+6;LAW1001;General Law;2;General;Compulsory;;Marketing;7340115;
+7;TOU1001;Business Communication;3;General;Compulsory;;Marketing;7340115;
+8;MIS1002;IT for Business;3;General;Compulsory;;Marketing;7340115;
+9;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;;Marketing;7340115;
+10;MGT1001;Microeconomics;3;General;Compulsory;;Marketing;7340115;
+11;ECO1001;Macroeconomics;3;General;Compulsory;;Marketing;7340115;
+12;MGT1002;Management;3;General;Compulsory;;Marketing;7340115;
+13;ENGELE1;English Elementary 1;3;General;Compulsory;;Marketing;7340115;
+14;ENGELE2;English Elementary 2;4;General;Compulsory;;Marketing;7340115;
+15;ENG2015;English Communication 1;3;General;Compulsory;;Marketing;7340115;
+16;ENG2016;English Communication 2 ;3;General;Compulsory;;Marketing;7340115;
+17;ENG2017;English Composition B1 ;2;General;Compulsory;;Marketing;7340115;
+18;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;;Marketing;7340115;
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;;Marketing;7340115;
+20;IBS2001;International Business;3;Fundamental ;Compulsory;;Marketing;7340115;
+21;LAW2001;Business Law;3;Fundamental ;Compulsory;;Marketing;7340115;
+22;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;;Marketing;7340115;
+23;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;;Marketing;7340115;
+24;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;;Marketing;7340115;
+25;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;;Marketing;7340115;
+26;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;;Marketing;7340115;
+27;ENG3001;Business English;3;Fundamental ;Compulsory;;Marketing;7340115;
+28;MKT3003;Consumer Behavior;3;Major;Compulsory;;Marketing;7340115;
+29;MKT3002;Marketing Research;3;Major;Compulsory;;Marketing;7340115;
+30;MKT3026;Marketing Analytics;3;Major;Compulsory;;Marketing;7340115;
+31;MKT3001;Marketing Management;3;Major;Compulsory;;Marketing;7340115;
+32;MKT3005;Brand Management;3;Major;Compulsory;;Marketing;7340115;
+33;COM3003;Customer Relationship Management;3;Major;Elective;;Marketing;7340115;
+34;HOS3001;Service Marketing;3;Major;Elective;;Marketing;7340115;
+35;IBS3010;International Marketing;3;Major;Elective;;Marketing;7340115;
+36;IBS3001;Business Ethics;3;Major;Elective;;Marketing;7340115;
+37;RMD3001;Research Methodology;2;Major;Elective;;Marketing;7340115;
+38;ELC3020;Data Science for Business;3;Major;Elective;;Marketing;7340115;
+39;MGT3021;Digital Business;3;Major;Elective;;Marketing;7340115;
+40;MKT3004;Marketing Strategy;3;Specialized;Compulsory;Marketing Management;Marketing;7340115;734011501
+41;MKT3006;Integrated Marketing Communication (IMC);3;Specialized;Compulsory;Marketing Management;Marketing;7340115;734011501
+42;MKT3008;Pricing;3;Specialized;Compulsory;Marketing Management;Marketing;7340115;734011501
+43;MKT3009;Marketing Channels;3;Specialized;Compulsory;Marketing Management;Marketing;7340115;734011501
+44;MKT3010;New Product Management;3;Specialized;Compulsory;Marketing Management;Marketing;7340115;734011501
+45;MKT3007;Digital Marketing;3;Specialized;Compulsory;Marketing Management;Marketing;7340115;734011501
+46;MKT3011;Marketing Project;2;Specialized;Compulsory;Marketing Management;Marketing;7340115;734011501
+47;MKT3025;Content Marketing;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+48;MKT3019;Online Marketing Communication Tool;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+49;MKT3013;Multimedia Communication Design;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+50;COM3001;E - Commerce;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+51;MKT3014;Public Relations;2;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+52;MKT3015;Advertising;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+53;COM3011;Selling Skills;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+54;FIN3006;Financial Management;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+55;MGT3002;Supply Chain Management;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+56;HRM3001;Human Resource Management;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+57;MGT3011;Entrepreneurship;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+58;HMR3002;Developing Managerial Skills;3;Specialized;Elective;Marketing Management;Marketing;7340115;734011501
+59;MKT3019;Online Marketing Communication Tool;3;Specialized;Compulsory;Marketing Communication;Marketing;7340115;734011502
+60;MKT3017;International Economics;2;Specialized;Compulsory;Marketing Communication;Marketing;7340115;734011502
+61;MKT3025;Content Marketing;3;Specialized;Compulsory;Marketing Communication;Marketing;7340115;734011502
+62;MKT3029;Public Actions Management;3;Specialized;Compulsory;Marketing Communication;Marketing;7340115;734011502
+63;MKT3015;Advertising;3;Specialized;Compulsory;Marketing Communication;Marketing;7340115;734011502
+64;MKT3013;Multimedia Communication Design;3;Specialized;Compulsory;Marketing Communication;Marketing;7340115;734011502
+65;MKT3006;Integrated Marketing Communication (IMC);3;Specialized;Compulsory;Marketing Communication;Marketing;7340115;734011502
+66;COM3006;E - Retailing;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+67;MKT3004;Marketing Strategy;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+68;MKT3022;Media Planning;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+69;MKT3009;Marketing Channels;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+70;MKT3016;Sales Promotion;2;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+71;MKT3007;Digital Marketing;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+72;MKT3027;Search Marketing;2;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+73;MKT3024;Social Media and Mobile Marketing;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+74;ELC3018;Web Analysis and Design;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+75;MKT3010;New Product Management;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+76;TOU3051;Event Management;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+77;IBS3007;Cross-cultural Management;3;Specialized;Elective;Marketing Communication;Marketing;7340115;734011502
+78;MKT3028;Digital Marketing Project;2;Specialized;Compulsory;Digital Marketing;Marketing;7340115;734011503
+79;MKT3023;Omni-Channel Marketing;3;Specialized;Compulsory;Digital Marketing;Marketing;7340115;734011503
+80;MKT3007;Digital Marketing;3;Specialized;Compulsory;Digital Marketing;Marketing;7340115;734011503
+81;MKT3025;Content Marketing;3;Specialized;Compulsory;Digital Marketing;Marketing;7340115;734011503
+82;MKT3024;Social Media and Mobile Marketing;3;Specialized;Compulsory;Digital Marketing;Marketing;7340115;734011503
+83;ELC3018;Web Analysis and Design;3;Specialized;Compulsory;Digital Marketing;Marketing;7340115;734011503
+84;MKT3006;Integrated Marketing Communication (IMC);3;Specialized;Compulsory;Digital Marketing;Marketing;7340115;734011503
+85;MKT3004;Marketing Strategy;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+86;MKT3019;Online Marketing Communication Tool;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+87;MKT3027;Search Marketing;2;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+88;MGT3024;Digital Business Analytics;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+89;MIS3009;Data Warehousing and Data Mining;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+90;MKT3015;Advertising;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+91;MKT3014;Public Relations;2;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+92;MKT3010;New Product Management;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+93;MKT3013;Multimedia Communication Design;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+94;COM3001;E - Commerce;3;Specialized;Elective;Digital Marketing;Marketing;7340115;734011503
+95;MKT4001;Practical Report for Graduation Purpose;4;Specialized;Elective;;Marketing;7340115;
+96;MKT4002;Graduation Thesis;10;Specialized;Elective;;Marketing;7340115;
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;;Finance - Banking;7340201;
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;;Finance - Banking;7340201;
+3;SMT1007;Scientific Socialism;2;General;Compulsory;;Finance - Banking;7340201;
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;;Finance - Banking;7340201;
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;;Finance - Banking;7340201;
+6;LAW1001;General Law;2;General;Compulsory;;Finance - Banking;7340201;
+7;TOU1001;Business Communication;3;General;Compulsory;;Finance - Banking;7340201;
+8;MIS1002;IT for Business;3;General;Compulsory;;Finance - Banking;7340201;
+9;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;;Finance - Banking;7340201;
+10;MGT1001;Microeconomics;3;General;Compulsory;;Finance - Banking;7340201;
+11;ECO1001;Macroeconomics;3;General;Compulsory;;Finance - Banking;7340201;
+12;MGT1002;Management;3;General;Compulsory;;Finance - Banking;7340201;
+13;ENGELE1;English Elementary 1;3;General;Compulsory;;Finance - Banking;7340201;
+14;ENGELE2;English Elementary 2;4;General;Compulsory;;Finance - Banking;7340201;
+15;ENG2015;English Communication 1;3;General;Compulsory;;Finance - Banking;7340201;
+16;ENG2016;English Communication 2 ;3;General;Compulsory;;Finance - Banking;7340201;
+17;ENG2017;English Composition B1 ;2;General;Compulsory;;Finance - Banking;7340201;
+18;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+20;IBS2001;International Business;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+21;LAW2001;Business Law;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+22;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+23;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+24;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+25;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+26;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+27;ENG3001;Business English;3;Fundamental ;Compulsory;;Finance - Banking;7340201;
+28;FIN3002;Investments;3;Major;Compulsory;;Finance - Banking;7340201;
+29;BAN3001;Asset Valuation;3;Major;Compulsory;;Finance - Banking;7340201;
+30;BAN2001;Public Finance;3;Major;Compulsory;;Finance - Banking;7340201;
+31;FIN3004;Corporate Finance;3;Major;Compulsory;;Finance - Banking;7340201;
+32;BAN3002;Mathematics of Finance;3;Major;Compulsory;;Finance - Banking;7340201;
+33;HOS3001;Service Marketing;3;Major;Elective;;Finance - Banking;7340201;
+34;MGT3021;Digital Business;3;Major;Elective;;Finance - Banking;7340201;
+35;BAN3015;Insurance Economics;2;Major;Elective;;Finance - Banking;7340201;
+36;FIN3010;Financial Modelling;3;Major;Elective;;Finance - Banking;7340201;
+37;BAN3017;Microfinance;3;Major;Elective;;Finance - Banking;7340201;
+38;BAN3003;Banking Operations;3;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+39;BAN3004;Accounting for Banking;3;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+40;BAN3005;Bank Management;3;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+41;BAN3006;International Payments;3;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+42;BAN3007;Credit Analysis and Lending;3;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+43;BAN3008;Personal Finance;3;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+44;BAN3018;Digital Banking;3;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+45;BAN3019;Banking Transaction Skills;2;Specialized;Compulsory;Banking;Finance - Banking;7340201;734020101
+46;ACC2003;Financial Accounting;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+47;BAN3014;Taxation;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+48;FIN3009;Financial Risk Management;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+49;FIN3003;Derivatives;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+50;RMD3001;Research Methodology;2;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+51;ELC3020;Data Science for Business;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+52;BAN3020;Development Finance;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+53;COM3011;Selling Skills;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+54;FIN3006;Financial Management;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+55;MGT3002;Supply Chain Management;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+56;HRM3001;Human Resource Management;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+57;MGT3011;Entrepreneurship;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+58;HMR3002;Developing Managerial Skills;3;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+59;FIN3003;Derivatives;3;Specialized;Compulsory;Corporate Finance;Finance - Banking;7340201;734020102
+60;ACC2003;Financial Accounting;3;Specialized;Compulsory;Corporate Finance;Finance - Banking;7340201;734020102
+61;FIN3011;Fintech;3;Specialized;Compulsory;Corporate Finance;Finance - Banking;7340201;734020102
+62;ACC3004;Financial Analysis;3;Specialized;Compulsory;Corporate Finance;Finance - Banking;7340201;734020102
+63;FIN3009;Financial Risk Management;3;Specialized;Compulsory;Corporate Finance;Finance - Banking;7340201;734020102
+64;FIN3005;Advanced Corporate Finance;3;Specialized;Compulsory;Corporate Finance;Finance - Banking;7340201;734020102
+65;FIN3001;International Finance;3;Specialized;Compulsory;Corporate Finance;Finance - Banking;7340201;734020102
+66;MGT3018;Business Plan;2;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+67;ACC3005;Company Accounting;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+68;MGT3011;Entrepreneurship;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+69;AUD3005;Auditing;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+70;MKT3024;Social Media and Mobile Marketing;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+71;BAN3003;Banking Operations;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+72;ELC3020;Data Science for Business;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+73;RMD3001;Research Methodology;2;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+74;BAN3014;Taxation;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+75;COM3001;E - Commerce;3;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+76;BAN3016;Public Investment Project Appraisal;3;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+77;BAN3009;Social Security;3;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+78;BAN3010;Public Finance Management;3;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+79;BAN3011;The Theory of Taxation;3;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+80;BAN3014;Taxation;3;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+81;BAN3013;State Treasury Operations;3;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+82;BAN3020;Development Finance;3;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+83;BAN3021;Public Finance Project;2;Specialized;Compulsory;Public Finance;Finance - Banking;7340201;734020103
+84;ACC2003;Financial Accounting;3;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+85;ACC2004;Accounting in Public Sector;3;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+86;FIN3001;International Finance;3;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+87;RMD3001;Research Methodology;2;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+88;BAN3003;Banking Operations;3;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+89;ECO3026;Public Management;3;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+90;ECO3003;Game Theory and Principle of Strategy;3;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+91;FIN3009;Financial Risk Management;3;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+92;BAN4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+93;BAN4002;Graduation Thesis;10;Specialized;Elective;Banking;Finance - Banking;7340201;734020101
+94;FIN4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+95;FIN4002;Graduation Thesis;10;Specialized;Elective;Public Finance;Finance - Banking;7340201;734020103
+96;FIN4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+97;FIN4002;Graduation Thesis;10;Specialized;Elective;Corporate Finance;Finance - Banking;7340201;734020102
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;;Business Administration;7340101;
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;;Business Administration;7340101;
+3;SMT1007;Scientific Socialism;2;General;Compulsory;;Business Administration;7340101;
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;;Business Administration;7340101;
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;;Business Administration;7340101;
+6;LAW1001;General Law;2;General;Compulsory;;Business Administration;7340101;
+7;TOU1001;Business Communication;3;General;Compulsory;;Business Administration;7340101;
+8;MIS1002;IT for Business;3;General;Compulsory;;Business Administration;7340101;
+9;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;;Business Administration;7340101;
+10;MGT1001;Microeconomics;3;General;Compulsory;;Business Administration;7340101;
+11;ECO1001;Macroeconomics;3;General;Compulsory;;Business Administration;7340101;
+12;MGT1002;Management;3;General;Compulsory;;Business Administration;7340101;
+13;ENGELE1;English Elementary 1;3;General;Compulsory;;Business Administration;7340101;
+14;ENGELE2;English Elementary 2;4;General;Compulsory;;Business Administration;7340101;
+15;ENG2015;English Communication 1;3;General;Compulsory;;Business Administration;7340101;
+16;ENG2016;English Communication 2 ;3;General;Compulsory;;Business Administration;7340101;
+17;ENG2017;English Composition B1 ;2;General;Compulsory;;Business Administration;7340101;
+18;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;;Business Administration;7340101;
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;;Business Administration;7340101;
+20;IBS2001;International Business;3;Fundamental ;Compulsory;;Business Administration;7340101;
+21;LAW2001;Business Law;3;Fundamental ;Compulsory;;Business Administration;7340101;
+22;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;;Business Administration;7340101;
+23;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;;Business Administration;7340101;
+24;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;;Business Administration;7340101;
+25;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;;Business Administration;7340101;
+26;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;;Business Administration;7340101;
+27;ENG3001;Business English;3;Fundamental ;Compulsory;;Business Administration;7340101;
+28;MGT3001;Strategic Management;3;Major;Compulsory;;Business Administration;7340101;
+29;MGT3002;Supply Chain Management;3;Major;Compulsory;;Business Administration;7340101;
+30;MGT3004;Project Management;3;Major;Compulsory;;Business Administration;7340101;
+31;MGT3003;Operations Management;3;Major;Compulsory;;Business Administration;7340101;
+32;FIN3006;Financial Management;3;Major;Compulsory;;Business Administration;7340101;
+33;MKT3001;Marketing Management;3;Major;Elective;;Business Administration;7340101;
+34;ELC3020;Data Science for Business;3;Major;Elective;;Business Administration;7340101;
+35;HRM3002;Developing Management Skills;3;Major;Elective;;Business Administration;7340101;
+36;MIS3016;E-Payment;2;Major;Elective;;Business Administration;7340101;
+37;HRM3005;Negotiation;3;Major;Elective;;Business Administration;7340101;
+38;MGT3011;Entrepreneurship;3;Specialized;Compulsory;General Business Administration;Business Administration;7340101;734010101
+39;MGT3014;Quality Management;3;Specialized;Compulsory;General Business Administration;Business Administration;7340101;734010101
+40;HRM3001;Human Resource Management;3;Specialized;Compulsory;General Business Administration;Business Administration;7340101;734010101
+41;MGT3017;Advanced Operations Management;3;Specialized;Compulsory;General Business Administration;Business Administration;7340101;734010101
+42;MGT3016;Enterprise Performance Management;3;Specialized;Compulsory;General Business Administration;Business Administration;7340101;734010101
+43;MGT3015;Managerial Decision Making;3;Specialized;Compulsory;General Business Administration;Business Administration;7340101;734010101
+44;MGT3095;Start - up Project;2;Specialized;Compulsory;General Business Administration;Business Administration;7340101;734010101
+45;MGT3020;Digital Transformation;3;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+46;MGT3010;Organization Theory and Design;3;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+47;MKT3007;Digital Marketing;3;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+48;MGT3024;Digital Business Analytics;3;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+49;MGT3018;Business Plan;2;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+50;MGT3019;Innovation Management;3;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+51;MGT3030;Organizational Culture;3;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+52;RMD3001;Research Methodology;2;Specialized;Elective;General Business Administration;Business Administration;7340101;734010101
+53;FIN3002;Investments;3;Specialized;Compulsory;Financial Management;Business Administration;7340101;734010102
+54;ACC2002;Management Accounting;3;Specialized;Compulsory;Financial Management;Business Administration;7340101;734010102
+55;ACC2003;Financial Accounting;3;Specialized;Compulsory;Financial Management;Business Administration;7340101;734010102
+56;ACC3004;Financial Analysis;3;Specialized;Compulsory;Financial Management;Business Administration;7340101;734010102
+57;FIN3009;Financial Risk Management;3;Specialized;Compulsory;Financial Management;Business Administration;7340101;734010102
+58;FIN3007;Advanced Financial Management;3;Specialized;Compulsory;Financial Management;Business Administration;7340101;734010102
+59;FIN3008;Working Capital Management;3;Specialized;Compulsory;Financial Management;Business Administration;7340101;734010102
+60;FIN3003;Derivatives;3;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+61;BAN3008;Personal Finance;3;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+62;FIN3010;Financial Modelling;3;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+63;FIN3011;Fintech;3;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+64;BAN3005;Bank Management;3;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+65;FIN3001;International Finance;3;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+66;BAN3014;Taxation;3;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+67;RMD3001;Research Methodology;2;Specialized;Elective;Financial Management;Business Administration;7340101;734010102
+68;MGT3195;Supply Chain Management Project;2;Specialized;Compulsory;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+69;MGT3007;Logistics;3;Specialized;Compulsory;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+70;MGT3028;Advanced Logistics;3;Specialized;Compulsory;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+71;MGT3029;Supply Management & Sourcing Strategy;3;Specialized;Compulsory;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+72;MGT3027;Advanced Supply Chain Management;3;Specialized;Compulsory;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+73;MGT3009;Purchasing Management;3;Specialized;Compulsory;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+74;MGT3006;Operations Research;3;Specialized;Compulsory;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+75;LAW3001;International Trade Law;3;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+76;IBS3005;International Business Management;3;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+77;ELC3001;E-Logistics;3;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+78;MGT3026;Inventory and Warehousing Management;3;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+79;MGT3017;Advanced Operations Management;3;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+80;MGT3014;Quality Management;3;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+81;BAN3006;International Payments;3;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+82;RMD3001;Research Methodology;2;Specialized;Elective;Supply Chain and Logistics Management;Business Administration;7340101;734010103
+83;MGT3020;Digital Transformation;3;Specialized;Compulsory;Digital Business;Business Administration;7340101;734010104
+84;MGT3096;Digital Business Capstone;2;Specialized;Compulsory;Digital Business;Business Administration;7340101;734010104
+85;MGT3021;Digital Business;3;Specialized;Compulsory;Digital Business;Business Administration;7340101;734010104
+86;MGT3022;Digital Entrepreneurship;3;Specialized;Compulsory;Digital Business;Business Administration;7340101;734010104
+87;MGT3023;Digital Business Model;3;Specialized;Compulsory;Digital Business;Business Administration;7340101;734010104
+88;MGT3024;Digital Business Analytics;3;Specialized;Compulsory;Digital Business;Business Administration;7340101;734010104
+89;MGT3025;Digital Project Management;3;Specialized;Compulsory;Digital Business;Business Administration;7340101;734010104
+90;FIN3011;Fintech;3;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+91;MGT3018;Business Plan;2;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+92;MIS3041;Python for Data Analysis;3;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+93;MKT3007;Digital Marketing;3;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+94;MKT3023;Omni-Channel Marketing;3;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+95;MGT3019;Innovation Management;3;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+96;ELC3005;Big Data Fundamentals;3;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+97;RMD3001;Research Methodology;2;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+98;HRM3015;Digital Human Resource Management;2;Specialized;Elective;Digital Business;Business Administration;7340101;734010104
+99;MGT4001;Practical Report for Graduation Purpose;4;Specialized;Elective;;Business Administration;7340101;
+100;MGT4002;Graduation Thesis;10;Specialized;Elective;;Business Administration;7340101;
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+6;LAW1001;General Law;2;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+7;TOU1001;Business Communication;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+8;MIS1002;IT for Business;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+9;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+10;MGT1001;Microeconomics;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+11;ECO1001;Macroeconomics;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+12;MGT1002;Management;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+13;ENGELE1;English Elementary 1;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+14;ENGELE2;English Elementary 2;4;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+15;ENG2015;English Communication 1;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+16;ENG2016;English Communication 2 ;3;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+17;ENG2017;English Composition B1 ;2;General;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+18;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+20;IBS2001;International Business;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+21;LAW2001;Business Law;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+22;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+23;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+24;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+25;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+26;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+27;ENG3001;Business English;3;Fundamental ;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+28;MGT3001;Strategic Management;3;Major;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+29;MGT3010;Organization Theory and Design;3;Major;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+30;HRM3001;Human Resource Management;3;Major;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+31;HRM3004;Employment Relationship;3;Major;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+32;HRM3007;Professional Development;3;Major;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+33;MGT3020;Digital Transformation;3;Major;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+34;MGT3014;Quality Management;3;Major;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+35;LAW3010;Labor Law;3;Major;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+36;HRM3017;International Human Resource Management;3;Major;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+37;HRM3005;Negotiation;3;Major;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+38;HRM3013;Human Resource Planning;3;Specialized;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+39;HRM3003;Human Resource Development;3;Specialized;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+40;HRM3002;Developing Management Skills;3;Specialized;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+41;HRM3009;Performance Management;3;Specialized;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+42;HRM3010;Compensation;3;Specialized;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+43;HRM3014;Recruitment and Selection;3;Specialized;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+44;HRM3095;Project: Design Policy of Human Resource;2;Specialized;Compulsory;Human Resource Management;Human Resource Management;7340404;734040401
+45;MGT3021;Digital Business;3;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+46;MGT3011;Entrepreneurship;3;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+47;HRM3016;People Analytics;3;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+48;RMD3001;Research Methodology;2;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+49;FIN3006;Financial Management;3;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+50;HRM3015;Digital Human Resource Management;2;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+51;HRM3006;Psychology;2;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+52;COM3001;E - Commerce;3;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+53;MKT3006;Integrated Marketing Communication (IMC);3;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+54;HRM4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+55;HRM4002;Graduation Thesis;10;Specialized;Elective;Human Resource Management;Human Resource Management;7340404;734040401
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Fintech;Fintech;7340205;734020501
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Fintech;Fintech;7340205;734020501
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Fintech;Fintech;7340205;734020501
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Fintech;Fintech;7340205;734020501
+6;LAW1001;General Law;2;General;Compulsory;Fintech;Fintech;7340205;734020501
+7;TOU1001;Business Communication;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+8;MGT1001;Microeconomics;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+9;ECO1001;Macroeconomics;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+10;MGT1002;Management;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+11;MIS1002;IT for Business;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+12;ENGELE1;English Elementary 1;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+13;ENGELE2;English Elementary 2;4;General;Compulsory;Fintech;Fintech;7340205;734020501
+14;ENG2015;English Communication 1;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+15;ENG2016;English Communication 2 ;3;General;Compulsory;Fintech;Fintech;7340205;734020501
+16;ENG2017;English Composition B1 ;2;General;Compulsory;Fintech;Fintech;7340205;734020501
+17;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+18;IBS2001;International Business;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+19;ECO3040;Mathematics for Fintech 1;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+20;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+21;STA2006;Probability And Mathematical Statistics;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+22;ECO3041;Mathematics for Fintech 2;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+23;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+24;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+25;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+26;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+27;ENG3001;Business English;3;Fundamental ;Compulsory;Fintech;Fintech;7340205;734020501
+28;FIN3002;Investments;3;Major;Compulsory;Fintech;Fintech;7340205;734020501
+29;FIN3004;Corporate Finance;3;Major;Compulsory;Fintech;Fintech;7340205;734020501
+30;FIN3011;Fintech;3;Major;Compulsory;Fintech;Fintech;7340205;734020501
+31;MIS3001;Basic Programming;3;Major;Compulsory;Fintech;Fintech;7340205;734020501
+32;MIS3049;Database Management in Finance;3;Major;Compulsory;Fintech;Fintech;7340205;734020501
+33;ELC3005;Big Data Fundamentals;3;Major;Compulsory;Fintech;Fintech;7340205;734020501
+34;FIN3001;International Finance;3;Major;Elective;Fintech;Fintech;7340205;734020501
+35;ELC3019;E-Payment;3;Major;Elective;Fintech;Fintech;7340205;734020501
+36;MGT3023;Digital Business Model;3;Major;Elective;Fintech;Fintech;7340205;734020501
+37;COM3001;E - Commerce;3;Major;Elective;Fintech;Fintech;7340205;734020501
+38;LAW2001;Business Law;3;Major;Elective;Fintech;Fintech;7340205;734020501
+39;FIN3003;Derivatives;3;Specialized;Compulsory;Fintech;Fintech;7340205;734020501
+40;BAN3003;Banking Operations;3;Specialized;Compulsory;Fintech;Fintech;7340205;734020501
+41;MIS3041;Python for Data Analysis;3;Specialized;Compulsory;Fintech;Fintech;7340205;734020501
+42;FIN3012;Big Data Analytics in Fintech;3;Specialized;Compulsory;Fintech;Fintech;7340205;734020501
+43;ELC3023;Machine Learning and AI in Fintech;3;Specialized;Compulsory;Fintech;Fintech;7340205;734020501
+44;FIN3013;Blockchain Technology and Cryptocurrency;3;Specialized;Compulsory;Fintech;Fintech;7340205;734020501
+45;FIN3014;Fintech Capstone;2;Specialized;Compulsory;Fintech;Fintech;7340205;734020501
+46;BAN3018;Digital Banking;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+47;ACC3004;Financial Analysis;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+48;RMD3001;Research Methodology;2;Specialized;Elective;Fintech;Fintech;7340205;734020501
+49;MIS3042;Cloud Computing;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+50;ELC3016;E-Business;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+51;MKT3007;Digital Marketing;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+52;FIN3010;Financial Modelling;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+53;FIN3009;Financial Risk Management;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+54;MGT3018;Business Plan;2;Specialized;Elective;Fintech;Fintech;7340205;734020501
+55;MGT3031;Entrepreneurship in Fintech;3;Specialized;Elective;Fintech;Fintech;7340205;734020501
+56;FIN4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Fintech;Fintech;7340205;734020501
+57;FIN4002;Graduation Thesis;10;Specialized;Elective;Fintech;Fintech;7340205;734020501
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+6;LAW1001;General Law;2;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+7;TOU1001;Business Communication;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+8;MGT1001;Microeconomics;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+9;ECO1001;Macroeconomics;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+10;MGT1002;Management;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+11;MIS1002;IT for Business;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+12;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+13;ENGELE1;English Elementary 1;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+14;ENGELE2;English Elementary 2;4;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+15;ENG2015;English Communication 1;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+16;ENG2016;English Communication 2 ;3;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+17;ENG2017;English Composition B1 ;2;General;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+18;MIS2001;Data Base;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+20;ACC2003;Financial Accounting;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+21;ECO2002;Development Economics;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+22;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+23;ACC1001;Accounting Principles;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+24;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+25;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+26;STA2006;Probability And Mathematical Statistics;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+27;ENG3001;Business English;3;Fundamental ;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+28;STA3002;The system of National Accounts;3;Major;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+29;STA3001;Econometrics;3;Major;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+30;STA3007;Multivariate Data Analysis;3;Major;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+31;MIS3050;Applied Data Mining;3;Major;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+32;STA3005;Survey Method;3;Major;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+33;MKT3003;Consumer Behavior;3;Major;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+34;ECO3015;Investment Economics;3;Major;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+35;IBS2002;International Economics;3;Major;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+36;MGT3005;Total Quality Management;3;Major;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+37;MKT3026;Marketing Analytics;3;Major;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+38;STA3013;Data Analysis and Visualization;3;Specialized;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+39;STA3008;Time Series Analysis and Forecasting;3;Specialized;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+40;STA3006;Population and Labor Force Statistics;3;Specialized;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+41;STA3012;Industrial Statistics;3;Specialized;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+42;STA3010;Financial Statistics;3;Specialized;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+43;STA3011;Statistics Fractice;2;Specialized;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+44;STA3095;Course Project;2;Specialized;Compulsory;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+45;ACC3005;Company Accounting;3;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+46;ELC3009;Web Data Mining;3;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+47;RMD3001;Research Methodology;2;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+48;MIS3008;Database Management;3;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+49;ACC3004;Financial Analysis;3;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+50;COM3003;Customer Relationship Management;3;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+51;ELC3008;Artificial Intelligence for Business;3;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+52;BAN3005;Bank Management;3;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+53;STA4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+54;STA4002;Graduation Thesis;10;Specialized;Elective;Statistics for Economic and Society;Statistics for Economics;7310107;731010701
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+6;LAW1001;General Law;2;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+7;MGT2002;Introduction to Business;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+8;MGT1001;Microeconomics;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+9;ECO1001;Macroeconomics;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+10;MGT1002;Management;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+11;ENGELE1;English Elementary 1;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+12;ENGELE2;English Elementary 2;4;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+13;ENG2015;English Communication 1;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+14;ENG2016;English Communication 2 ;3;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+15;ENG2017;English Composition B1 ;2;General;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+16;ACC1001;Accounting Principles;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+17;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+18;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+19;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+20;STA2003;Mathematical Statistics;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+21;MIS2001;Data Base;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+22;MIS3001;Basic Programming;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+23;ECO3025;Mathematics for Data Science I;2;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+24;ECO3024;Mathematics for Data Science II;3;Fundamental ;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+25;MIS3006;Data Structures and Algorithms;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+26;COM3003;Customer Relationship Management;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+27;FIN3006;Financial Management;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+28;MGT3002;Supply Chain Management;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+29;STA3007;Multivariate Data Analysis;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+30;COM3001;E - Commerce;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+31;MIS3008;Database Management;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+32;ELC3005;Big Data Fundamentals;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+33;ACC2002;Management Accounting;3;Major;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+34;MIS3009;Data Warehousing and Data Mining;3;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+35;STA3008;Time Series Analysis and Forecasting;3;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+36;ELC3006;Machine Learning;3;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+37;ELC3007;Data Visualization;3;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+38;ELC3008;Artificial Intelligence for Business;3;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+39;ELC3013;Business Process Analysis and Design;3;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+40;MIS3041;Python for Data Analysis;3;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+41;ELC3022;Capstone Project 1;2;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+42;ELC3011;Capstone Project 2;2;Specialized;Compulsory;Data Science & Business Analytics;Data Science;7340420;734042001
+43;ACC3004;Financial Analysis;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+44;FIN3002;Investments;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+45;FIN2001;Financial Markets and Institutions;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+46;ACC2003;Financial Accounting;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+47;MKT3003;Consumer Behavior;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+48;MKT3001;Marketing Management;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+49;COM3008;E - Marketing;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+50;MIS3013;E-Business;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+51;MGT3001;Strategic Management;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+52;ELC3009;Web Data Mining;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+53;MIS3042;Cloud Computing;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+54;MIS3043;Big Data Tools;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+55;COM3010;Design Thinking and Customer Experience;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+56;MGT3020;Digital Transformation;3;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+57;MGT3018;Business Plan;2;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+58;RMD3001;Research Methodology;2;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+59;ELC4003;Practical Report for Graduation Purpose;4;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+60;ELC4004;Graduation Thesis;10;Specialized;Elective;Data Science & Business Analytics;Data Science;7340420;734042001
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+3;SMT1007;Scientific Socialism;2;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+6;LAW1001;General Law;2;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+7;TOU1001;Business Communication;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+8;MGT1001;Microeconomics;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+9;ECO1001;Macroeconomics;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+10;MGT1002;Management;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+11;ENGELE1;English Elementary 1;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+12;ENGELE2;English Elementary 2;4;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+13;ENG2015;English Communication 1;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+14;ENG2016;English Communication 2 ;3;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+15;ENG2017;English Composition B1 ;2;General;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+16;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+17;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+18;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+19;HRM2001;Organizational Behavior;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+20;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+21;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+22;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+23;IBS2001;International Business;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+24;LAW2001;Business Law;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+25;ENG3001;Business English;3;Fundamental ;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+26;COM2001;Management in Trade Firms;3;Major;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+27;COM3001;E - Commerce;3;Major;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+28;COM3008;E - Marketing;3;Major;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+29;ELC3013;Business Process Analysis and Design;3;Major;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+30;FIN3006;Financial Management;3;Major;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+31;MIS3013;E-Business;3;Major;Elective;Commercial Business Administration;Commerce;7340121;734012101
+32;MKT3003;Consumer Behavior;3;Major;Elective;Commercial Business Administration;Commerce;7340121;734012101
+33;MKT3006;Integrated Marketing Communication (IMC);3;Major;Elective;Commercial Business Administration;Commerce;7340121;734012101
+34;IBS2003;International Trade Practices;3;Major;Elective;Commercial Business Administration;Commerce;7340121;734012101
+35;MGT3001;Strategic Management;3;Major;Elective;Commercial Business Administration;Commerce;7340121;734012101
+36;RMD3001;Research Methodology;2;Major;Elective;Commercial Business Administration;Commerce;7340121;734012101
+37;COM3003;Customer Relationship Management;3;Specialized;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+38;COM3002;Retail Management;3;Specialized;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+39;COM2002;Distribution Management;3;Specialized;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+40;COM3004;Sales Force Management;3;Specialized;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+41;COM3009;Procurement and Inventory Management;3;Specialized;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+42;COM3010;Design Thinking and Customer Experience;3;Specialized;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+43;COM3011;Selling Skills;3;Specialized;Compulsory;Commercial Business Administration;Commerce;7340121;734012101
+44;ELC3020;Data Science for Business;3;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+45;MKT3013;Multimedia Communication Design;3;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+46;COM3006;E - Retailing;3;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+47;COM3095;Project in Commerce Economics;2;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+48;IBS3004;Import Export Business;3;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+49;ELC3002;Digital Content Management;3;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+50;MIS3011;Enterprise Resource Planning;3;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+51;IBS3010;International Marketing;3;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+52;MGT3018;Business Plan;2;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+53;HOS4001;Practical Report for Graduation Purpose;4;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+54;HOS4002;Graduation Thesis;10;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+55;HOS4099;Graduation Project;10;Specialized;Elective;Commercial Business Administration;Commerce;7340121;734012101
+1;SMT1005;Marxist-Leninist Philosophy;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+2;SMT1006;Political Economics of Marxism-Leninism;2;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+3;SMT1007;Scientific Socialism;2;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+4;SMT1008;History of Vietnamese Communist Party;2;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+5;SMT1004;Ho Chi Minh Thought;2;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+6;LAW1001;General Law;2;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+7;TOU1001;Business Communication;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+8;MAT1001;Applied Mathematics for Economics and Business;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+9;MGT1001;Microeconomics;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+10;ECO1001;Macroeconomics;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+11;MGT1002;Management;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+12;ENGELE1;English Elementary 1;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+13;ENGELE2;English Elementary 2;4;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+14;ENG2015;English Communication 1;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+15;ENG2016;English Communication 2 ;3;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+16;ENG2017;English Composition B1 ;2;General;Compulsory;E-commerce;E-commerce;7340122;734012201
+17;ACC1002;Introduction to Accounting;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+18;MKT2001;Principles of Marketing;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+19;MIS2002;Management Information Systems;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+20;STA2002;Statistics for Business and Economics;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+21;FIN2001;Financial Markets and Institutions;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+22;MGT2002;Introduction to Business;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+23;COM3001;E - Commerce;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+24;LAW3041;Law on E-Commerce;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+25;COM3008;E - Marketing;3;Fundamental ;Compulsory;E-commerce;E-commerce;7340122;734012201
+26;ELC3016;E-Business;3;Major;Compulsory;E-commerce;E-commerce;7340122;734012201
+27;MIS3001;Basic Programming;3;Major;Compulsory;E-commerce;E-commerce;7340122;734012201
+28;MIS2001;Data Base;3;Major;Compulsory;E-commerce;E-commerce;7340122;734012201
+29;FIN3006;Financial Management;3;Major;Compulsory;E-commerce;E-commerce;7340122;734012201
+30;ELC3020;Data Science for Business;3;Major;Compulsory;E-commerce;E-commerce;7340122;734012201
+31;ELC3013;Business Process Analysis and Design;3;Major;Compulsory;E-commerce;E-commerce;7340122;734012201
+32;ELC3017;Strategies for Electronic Commerce;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+33;ELC3019;E-Payment;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+34;ELC3012;E-Commerce Project Management ;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+35;MIS3010;Web Programming;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+36;MKT3013;Multimedia Communication Design;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+37;COM3003;Customer Relationship Management;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+38;ELC3001;E-Logistics;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+39;ELC3018;Web Analysis and Design;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+40;ELC3021;Capstone Project;3;Specialized;Compulsory;E-commerce;E-commerce;7340122;734012201
+41;COM3010;Design Thinking and Customer Experience;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+42;MKT3003;Consumer Behavior;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+43;COM3006;E - Retailing;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+44;ELC3002;Digital Content Management;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+45;ELC3014;E-Marketing in Practice;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+46;MGT3020;Digital Transformation;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+47;MIS3009;Data Warehousing and Data Mining;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+48;MIS3041;Python for Data Analysis;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+49;ELC3008;Artificial Intelligence for Business;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+50;ELC3015;Web Mining in Practice;3;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+51;RMD3001;Research Methodology;2;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+52;ELC4003;Practical Report for Graduation Purpose;4;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+53;ELC4004;Graduation Thesis;10;Specialized;Elective;E-commerce;E-commerce;7340122;734012201
+54;ELC4099;Graduation Project;10;Specialized;Elective;E-commerce;E-commerce;7340122;734012201

@@ -1,0 +1,476 @@
+Course_ID,Course_Name,Credit
+SMT1005,Marxist Leninist Philosophy,3
+SMT1006,Political Economics of Marxism – Leninism,2
+SMT1007,Scientific Socialism,2
+SMT1008,History of Vietnamese Communist Party,2
+SMT1004,Ho Chi Minh’s Ideology,2
+LAW1001,General Law,2
+TOU1001,Business Communication,3
+MIS1002,Applied Information Technology for Management,3
+MGT1001,Microeconomics,3
+ECO1001,Macroeconomics,3
+MGT1002,Management,3
+ENGELE1,English Elementary 1,3
+ENGELE2,English Elementary 2,4
+ENG2015,English Communication 1,3
+ENG2016,English Communication 2,3
+ENG2017,English Composition B1,2
+ACC1002,Introduction to Accounting,3
+MKT2001,Principles of Marketing,3
+MIS2002,Management Information Systems,3
+STA2002,Statistics for Business and Economics,3
+FIN2001,Financial Markets and Institutions,3
+MGT2002,Introduction to Business,3
+IBS2001,International Business,3
+LAW2001,Business Law,3
+MIS3001,Basic Programming,3
+MIS2001,Database,3
+MIS3002,Computer Networks and Data Communications,3
+MIS3045,Object Oriented Programming,3
+MIS3007,Information Systems Analysis and Design,3
+MIS3006,Data Structures and Algorithms,3
+MIS3008,Database Management System,3
+MIS3005,Discrete Mathematics,3
+MIS3004,IT Project Management,3
+MIS3021,Software Testing,3
+MIS3048,Web Design,3
+MIS3010,Web Programming,3
+MIS3023,Mobile Application Programming,3
+MIS2012,Career Internship,3
+MIS3030,Information System Analysis and Design - Practice,2
+RMD3001,Scientific Research Methodology,2
+MIS3047,Business process management,3
+MIS3011,Enterprise Resource Planning,3
+MIS3034,Enterprise Resource Planning - Practice,2
+MIS3041,Python for Data Analysis,3
+ELC3006,Machine Learning,3
+ELC3009,Web Data Mining,3
+ELC3008,Artificial Intelligence for Business,3
+MIS3009,Data Warehousing and Data Mining,3
+MIS3012,Network Administrator,3
+MIS3046,Software design templates,2
+MIS3032,Application Programming - Practice,2
+MIS3003,Safety and Security of Information Systems,3
+MIS2010,Awareness Internship,2
+MGT3003,Operation Management,3
+HRM3001,Human Resource Management,3
+COM3003,Customer Relationship Management,3
+ACC2002,Management Accounting,3
+MGT3020,Digital Transformation,3
+ELC3007,Data Visualization,3
+MIS3051,Introduction to Artificial Intelligence,3
+MIS3052,Applied Mathematics in AI,3
+ELC3005,Introduction to Big Data,3
+MIS3053,Natural Language Processing,3
+MIS3054,Deep Learning for Business Applications,3
+MIS3055,Artificial Intelligence Ethics and Social Responsibility,2
+MIS3056,Recommendation Systems,3
+MIS3043,Big Data Analytics Tools,3
+MIS4001,Graduation Internship Report,4
+MIS4002,Graduation Thesis,10
+MIS4099,Graduation Project,10
+HRM2001,Organizational Behavior,3
+TOU3008,Strategy in Tourism,3
+TOU3047,Supervision in the Hospitality Industry,3
+TOU3002,Service Operation Management,3
+TOU3009,Hospitality Financial Management,3
+TOU3001,Introduction to Tourism,3
+MGT3011,Entrepreneurship,3
+IBS3007,Cross-cultural Management,3
+TOU3048,Destination Management,3
+COM3010,Design Thinking and Customer Experience,3
+HOS3001,Service Marketing,3
+TOU3005,Tourguiding,2
+TOU3055,Hotel Operations,3
+LAW3042,Law on Tourism,2
+TOU3046,Tour Operator Management,3
+TOU3054,Hospitality Management,2
+HOS3021,Restaurant Management,2
+TOU3026,Human Resource Management in the Tourism Industry,3
+TOU3051,Event Management,3
+TOU3056,Tour Design and Operation,2
+ENG3002,English for Tourism,3
+TOU3059,Travel Agency & Online Booking,2
+HOS3009,Software Application In Hotel,3
+TOU3032,Vietnamese Culture,2
+TOU3010,Tourism Geography,2
+TOU3052,Occupational Internship,3
+TOU3060,Tour Selling Skills,2
+MKT3007,Digital Marketing,3
+MKT3024,Social Media and Mobile Marketing,3
+TOU3028,Administrative Formalities in Tour Operation,3
+COM3001,E - Commerce,3
+TOU3023,Mice Tourism,2
+TOU3057,Regulations and Legal Procedures in Organising Events,2
+MKT3019,Online Marketing Communication Tool,3
+TOU3034,Event Coordination and Production,3
+TOU3035,Event Fundraising and Sponsorship,3
+TOU3037,Master of Ceremonies & Cheerleader,2
+TOU3038,Marketing Events,3
+TOU3039,Introduction to Event Management,2
+TOU3040,Management Project Events,3
+TOU3041,Event Logistics Management,3
+TOU3058,Risk Management for Event,2
+TOU3043,Event Design & Decoration,3
+TOU3036,Consumer Behavior in Events,2
+TOU3053,Occupational Internship,3
+TOU3024,Consumer Behavior in Tourism,2
+HOS4001,Practical Report for Graduation Purpose,4
+HOS4002,Graduation Thesis,10
+HOS4099,Graduation Project,10
+HOS3013,Cost Control in the Hotel,2
+HOS3018,Occupational Internship,3
+HOS3017,Occupational skills in housekeeping,2
+TOU3049,Occupational Skills in Reception,2
+TOU3050,Occupational skills in restaurant,2
+HOS3002,Introduction to Hospitality,2
+HOS3005,Back Office Operations,3
+HOS3019,Housekeeping Management,2
+HOS3020,Hotel Front Office Management,2
+HOS3010,Hospitality Security And Safety,2
+HOS3011,Introduction of Spa Industry,2
+HOS3014,Hotel Room Selling Skills,2
+HOS3016,Bar and Bartending Management,2
+MAT1001,Applied Mathematics for Economics and Business,3
+ENG3001,Business English,3
+ACC2001,Financial Accounting 1,3
+ACC2004,Accounting in Public Sector,3
+ACC3001,Financial Accounting 2,3
+FIN3004,Corporate Finance,3
+ACC3015,Corporate Governance and Professional Accounting,2
+AUD3004,Internal Control,3
+ELC3020,Data Science for Business,3
+FIN3002,Investments,3
+ACC3005,Company Accounting,3
+ACC3006,Financial Statement Analysis and Valuation,3
+ACC3007,Tax Accounting,3
+ACC3008,Accounting Information Systems,3
+ACC3010,Accounting Practice,3
+ACC3012,Cost Accounting,3
+AUD3005,Auditing,3
+ACC3013,Environmental Accounting,3
+ACC3014,Data Analytics for Accounting,3
+ACC3016,Public Sector Accounting Standards,3
+ACC3017,International Accounting Reporting Standards,3
+AUD3003,Performance Auditing,3
+BAN3004,Accounting for Banking,3
+FIN3010,Financial Modelling,3
+ACC4001,Practical Report for Graduation Purpose,4
+ACC4002,Graduation Thesis,10
+AUD2001,Principles of Auditing,3
+BAN3006,International Payments,3
+AUD3001,Audit of Financial Statements 1,3
+AUD3002,Audit of Financial Statements 2,3
+AUD3006,Auditing Practice,3
+AUD3007,Information Systems Audit,3
+AUD4001,Practical Report for Graduation Purpose,4
+AUD4002,Graduation Thesis,10
+IBS2003,International Trade Practices,3
+IBS2002,International Economics,3
+IBS3005,International Business Management,3
+IBS3003,Foreign Investment,3
+IBS3010,International Marketing,3
+IBS3001,Business Ethics,3
+IBS3013,Business Negotiation,3
+IBS3004,Import Export Business,3
+IBS3002,International Logistics and Trade,3
+IBS3006,Global Strategic Management,3
+IBS3008,Multinational Financial Management,3
+IBS3009,Finance of International Trade,3
+IBS3014,Multimodal Transportation,3
+IBS3016,International Business Simulation,3
+IBS3015,Asian Pacific Business Management,3
+IBS3012,Intellectual Property Management,3
+IBS3011,International Rules and  Institutions for Tradepolig,3
+ELC3002,Digital Content Management,3
+MKT3013,Multimedia Communication Design,3
+MKT3003,Consumer Behavior,3
+IBS4001,Practical Report for Graduation Purpose,4
+IBS4002,Graduation Thesis,10
+SMT2001,History of Economics Theories,3
+ECO2002,Development Economics,3
+ECO2004,Public Economics 1,3
+BAN2001,Public Finance,3
+ECO2003,Enviromental Economics,3
+ECO2001,State Management of Economy,3
+ENG3005,English for Economics,3
+ECO3001,Advanced Marcroeconomics,3
+ECO3002,Social and Economic Development Forecast,3
+ECO3003,Game Theory and Principle of Strategy,3
+MGT2001,Advanced Microeconomics,3
+STA3001,Econometrics,3
+ECO3021,Population and Development,2
+ECO3015,Investment Economics,3
+STA3013,Data Analysis and Visualization,3
+ECO3019,Quantitative Methods in Economics,3
+BAN3020,Development Finance,3
+ECO3006,Strategy for Socio-Economic Development,3
+ECO3007,Program and Project of Social-Economic Development,3
+ECO3004,Advanced Development Economics,3
+ECO3020,Regional Economics,3
+ECO3035,Human Resource Economics,3
+ECO3029,Digital Economics,3
+ECO3005,Socio-Economic Analysis,3
+MIS3024,E-Government,2
+ECO3028,Public Policy,3
+ECO3033,International Investment and Development,3
+STA3002,The system of National Accounts,3
+ECO3022,Rural Development,3
+ECO3026,Public Management,3
+LAW2007,Administrative Law,3
+ECO3014,Public Economics 2,3
+ECO3016,Investment Project Appraisal,3
+ECO3017,Investment Project Design,3
+ECO3018,Investment Promotion and Facilitation,3
+MGT3004,Project Management,3
+ECO3027,Project on Investment Economics,2
+LAW3012,Investment Law,2
+ECO3008,Planning Socio-Economic Development,3
+FIN3006,Financial Management,3
+ECO3037,Regional Economy,3
+MGT3002,Supply Chain Management,3
+ECO3030,International Economic Integration,3
+ECO3031,Advanced International Economics,3
+ECO3032,International Economic Policy,3
+FIN3001,International Finance,3
+ECO3034,International Economic Negotiation,3
+LAW3059,International Economics Law,3
+ECO3036,Sovereign Debt,3
+ECO3038,The National Policies of Regulating Multinational Corporations,3
+LAW3001,International Trade Law,3
+ECO4001,Practical Report for Graduation Purpose,4
+ECO4002,Graduation Thesis,10
+SMT3010,Logic,2
+LAW2008,Public International Law,3
+LAW2009,History of State and Law,3
+LAW2003,Civil Law 1,3
+LAW3003,Civil Law 2,3
+LAW2006,Constitutional Law,3
+LAW2004,Criminal Law 1,3
+LAW2005,Commercial Law 1,3
+LAW1002,General Theory of State and Law 1,2
+LAW2002,General Theory of State and Law 2,3
+ENG3004,English for Legal Professionals,3
+LAW3013,Land Law,3
+LAW3010,Labor Law,3
+LAW3004,Criminal Law 2,3
+LAW3009,Law on Marriage and Family,2
+LAW3005,Commercial Law 2,3
+LAW3008,Procedual Civil Law,3
+LAW3007,Criminal Procedure Law,3
+LAW3195,Project,2
+LAW3023,Comparative Law,2
+LAW3002,Law of Finance,2
+LAW3026,Human Rights Law,2
+HRM3006,Psychology,2
+LAW3024,Criminologie,2
+LAW3056,General Skills in Legal Advice,3
+LAW3018,Intellectual Property Law,2
+LAW3015,Administrative Procedure Law,2
+LAW3032,Law of Notarizing and Authentication,2
+LAW3060,Enforcement Law,2
+LAW3011,Private International Law,3
+LAW3040,Formulation of Legal Documents,2
+LAW3055,Case Law in The Vietnam's Legal System,2
+LAW3057,Out-of-Court Settlement of Disputes,2
+LAW3052,Oral Argument Skills in Legal Profession,2
+LAW3030,Lawyer Law,2
+LAW3031,Law on State Compensation Liability,2
+LAW3038,Social Security Law,2
+LAW3039,"Law on Inspection and Complaint, Denouncement",2
+LAW4001,Practical Report for Graduation Purpose,4
+LAW4002,Graduation Thesis,10
+LAW3053,Penal Code - Crime Part,2
+LAW3058,Law of Banking,2
+LAW3043,Skills For Legal Professionals,2
+LAW3036,Law on Competition and Protection on Consumers' Interests,2
+LAW3037,Business Real Property Law,2
+LAW3027,Law on Environment,2
+LAW3048,Law on Securities Trading,2
+LAW3049,Labour Dispute Resolution Skills,2
+LAW3095,Project,2
+LAW3035,Commercial Contract Drafting Skills,2
+LAW3045,Legal Consulting Skills,2
+LAW3046,Skills of Settlement of Labor Disputes,2
+LAW3041,Law on E-Commerce,3
+LAW3047,Economic Crimes,2
+LAW3050,International Investment Law,2
+LAW3044,Commercial Dispute Resolution Skills,2
+LAW3054,WTO Law,2
+LAW3051,Law on Logistics Services,2
+SMT3009,Politics,2
+SMT3013,State Administrative History of Vietnam,3
+SMT3033,Public Policy Analysis,3
+SMT3019,Management and Development Organisation of the State,3
+SMT3020,Personnel Organization in  Administrative Agencies,2
+SMT3022,Public Service,2
+SMT3002,History of Political Theory,2
+SMT3023,State Management of Culture,2
+SMT3001,Macroeconomic Management,3
+SMT3003,Theory of Modern Economics,3
+SMT3028,Political Economy Theory on the Transitional Period to Socialism in Vietnam,3
+SMT3029,Advanced Political Economy,3
+SMT3008,State Administrative Organizational Structure,3
+SMT3004,Social Welfare and Social Issues,3
+ECO3023,Public Sector Management,3
+SMT3034,Public Relations and Communications Public Service,3
+SMT3007,The Economic Theory in the Works of K.Marx and V.I.Lenin,3
+ELC3013,Business Process Analysis and Design,3
+SMT3018,Public Servie Ethics,2
+SMT3027,Public Administration,3
+SMT3012,Study Administration,3
+SMT3030,Administrative Document Drafting Skills,3
+SMT3014,Technical Office Organization,2
+SMT3031,Reception and Foreign Affairs,3
+SMT3032,Administrative Office Management,3
+SMT3021,Operations Over the Archives,2
+SMT3015,State Management of Urban,2
+SMT3016,State Management on Agriculture and Rural Development,2
+SMT3017,State Management of Resources and Environment,2
+SMT3026,State Management of Religious and Ethnic,2
+SMT4003,Practical Report for Graduation Purpose,4
+SMT4004,Graduation Thesis,10
+MKT3002,Marketing Research,3
+MKT3026,Marketing Analytics,3
+MKT3001,Marketing Management,3
+MKT3005,Brand Management,3
+MGT3021,Digital Business,3
+MKT3004,Marketing Strategy,3
+MKT3006,Integrated Marketing Communication (IMC),3
+MKT3008,Pricing,3
+MKT3009,Marketing Channels,3
+MKT3010,New Product Management,3
+MKT3011,Marketing Project,2
+MKT3025,Content Marketing,3
+MKT3014,Public Relations,2
+MKT3015,Advertising,3
+COM3011,Selling Skills,3
+HMR3002,Developing Managerial Skills,3
+MKT3017,International Economics,2
+MKT3029,Public Actions Management,3
+COM3006,E - Retailing,3
+MKT3022,Media Planning,3
+MKT3016,Sales Promotion,2
+MKT3027,Search Marketing,2
+ELC3018,Web Analysis and Design,3
+MKT3028,Digital Marketing Project,2
+MKT3023,Omni-Channel Marketing,3
+MGT3024,Digital Business Analytics,3
+MKT4001,Practical Report for Graduation Purpose,4
+MKT4002,Graduation Thesis,10
+BAN3001,Asset Valuation,3
+BAN3002,Mathematics of Finance,3
+BAN3015,Insurance Economics,2
+BAN3017,Microfinance,3
+BAN3003,Banking Operations,3
+BAN3005,Bank Management,3
+BAN3007,Credit Analysis and Lending,3
+BAN3008,Personal Finance,3
+BAN3018,Digital Banking,3
+BAN3019,Banking Transaction Skills,2
+ACC2003,Financial Accounting,3
+BAN3014,Taxation,3
+FIN3009,Financial Risk Management,3
+FIN3003,Derivatives,3
+FIN3011,Fintech,3
+ACC3004,Financial Analysis,3
+FIN3005,Advanced Corporate Finance,3
+MGT3018,Business Plan,2
+BAN3016,Public Investment Project Appraisal,3
+BAN3009,Social Security,3
+BAN3010,Public Finance Management,3
+BAN3011,The Theory of Taxation,3
+BAN3013,State Treasury Operations,3
+BAN3021,Public Finance Project,2
+BAN4001,Practical Report for Graduation Purpose,4
+BAN4002,Graduation Thesis,10
+FIN4001,Practical Report for Graduation Purpose,4
+FIN4002,Graduation Thesis,10
+MGT3001,Strategic Management,3
+HRM3002,Developing Management Skills,3
+MIS3016,E-Payment,2
+HRM3005,Negotiation,3
+MGT3014,Quality Management,3
+MGT3017,Advanced Operations Management,3
+MGT3016,Enterprise Performance Management,3
+MGT3015,Managerial Decision Making,3
+MGT3095,Start - up Project,2
+MGT3010,Organization Theory and Design,3
+MGT3019,Innovation Management,3
+MGT3030,Organizational Culture,3
+FIN3007,Advanced Financial Management,3
+FIN3008,Working Capital Management,3
+MGT3195,Supply Chain Management Project,2
+MGT3007,Logistics,3
+MGT3028,Advanced Logistics,3
+MGT3029,Supply Management & Sourcing Strategy,3
+MGT3027,Advanced Supply Chain Management,3
+MGT3009,Purchasing Management,3
+MGT3006,Operations Research,3
+ELC3001,E-Logistics,3
+MGT3026,Inventory and Warehousing Management,3
+MGT3096,Digital Business Capstone,2
+MGT3022,Digital Entrepreneurship,3
+MGT3023,Digital Business Model,3
+MGT3025,Digital Project Management,3
+HRM3015,Digital Human Resource Management,2
+MGT4001,Practical Report for Graduation Purpose,4
+MGT4002,Graduation Thesis,10
+HRM3004,Employment Relationship,3
+HRM3007,Professional Development,3
+HRM3017,International Human Resource Management,3
+HRM3013,Human Resource Planning,3
+HRM3003,Human Resource Development,3
+HRM3009,Performance Management,3
+HRM3010,Compensation,3
+HRM3014,Recruitment and Selection,3
+HRM3095,Project: Design Policy of Human Resource,2
+HRM3016,People Analytics,3
+HRM4001,Practical Report for Graduation Purpose,4
+HRM4002,Graduation Thesis,10
+ECO3040,Mathematics for Fintech 1,3
+STA2006,Probability And Mathematical Statistics,3
+ECO3041,Mathematics for Fintech 2,3
+MIS3049,Database Management in Finance,3
+ELC3019,E-Payment,3
+FIN3012,Big Data Analytics in Fintech,3
+ELC3023,Machine Learning and AI in Fintech,3
+FIN3013,Blockchain Technology and Cryptocurrency,3
+FIN3014,Fintech Capstone,2
+MIS3042,Cloud Computing,3
+ELC3016,E-Business,3
+MGT3031,Entrepreneurship in Fintech,3
+ACC1001,Accounting Principles,3
+STA3007,Multivariate Data Analysis,3
+MIS3050,Applied Data Mining,3
+STA3005,Survey Method,3
+MGT3005,Total Quality Management,3
+STA3008,Time Series Analysis and Forecasting,3
+STA3006,Population and Labor Force Statistics,3
+STA3012,Industrial Statistics,3
+STA3010,Financial Statistics,3
+STA3011,Statistics Fractice,2
+STA3095,Course Project,2
+STA4001,Practical Report for Graduation Purpose,4
+STA4002,Graduation Thesis,10
+STA2003,Mathematical Statistics,3
+ECO3025,Mathematics for Data Science I,2
+ECO3024,Mathematics for Data Science II,3
+ELC3022,Capstone Project 1,2
+ELC3011,Capstone Project 2,2
+COM3008,E - Marketing,3
+MIS3013,E-Business,3
+ELC4003,Practical Report for Graduation Purpose,4
+ELC4004,Graduation Thesis,10
+COM2001,Management in Trade Firms,3
+COM3002,Retail Management,3
+COM2002,Distribution Management,3
+COM3004,Sales Force Management,3
+COM3009,Procurement and Inventory Management,3
+COM3095,Project in Commerce Economics,2
+ELC3017,Strategies for Electronic Commerce,3
+ELC3012,E-Commerce Project Management ,3
+ELC3021,Capstone Project,3
+ELC3014,E-Marketing in Practice,3
+ELC3015,Web Mining in Practice,3
+ELC4099,Graduation Project,10
